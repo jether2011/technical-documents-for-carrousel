@@ -3,7 +3,7 @@
   "generated_at": "2026-11-25",
   "label": "THE_TURTLE_CODE",
   "record_count": 353,
-  "processing_note": "Collected inventory only. Most email bodies still require research and original editorial development. Statuses update when verified.",
+  "processing_note": "353 Gmail messages enumerated from 359 label count. Status 'collected' means only indexed, not researched or scheduled. 2 scheduled and 1 published; deduplicate against GitHub folders and Zernio IDs before production.",
   "records": [
     {
       "gmail_id": "1a213d8c05b30eb2",
@@ -17,7 +17,10 @@
       "subject": "H2 Passed the Test. PostgreSQL Rejected the Query.",
       "received_at": "2026-11-25T17:50:00+00:00",
       "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a213d42b153a349",
-      "status": "collected"
+      "status": "scheduled",
+      "slug": "h2-postgresql-test-fidelity",
+      "zernio_post_id": "6b077d75c550a476e32a2ece",
+      "scheduled_for": "2026-11-26T12:00:00-03:00"
     },
     {
       "gmail_id": "1a213d42b0980ef6",
@@ -31,7 +34,10 @@
       "subject": "The SQL Was Fast in psql but the Java Endpoint Was Slow",
       "received_at": "2026-11-25T17:45:00+00:00",
       "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a213cf993beed9e",
-      "status": "collected"
+      "status": "scheduled",
+      "slug": "slow-java-endpoint-fast-sql",
+      "zernio_post_id": "6b077d7838cc69696f28d5b7",
+      "scheduled_for": "2026-11-26T18:30:00-03:00"
     },
     {
       "gmail_id": "1a2139417ad52d64",
@@ -66,7 +72,8 @@
       "subject": "The N+1 Query Problem in Java, JDBC & Spring Boot: A Complete Production Engineering Guide",
       "received_at": "2026-11-24T17:30:00+00:00",
       "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20e9b86d45bda3",
-      "status": "published"
+      "status": "published",
+      "published_post_id": "6b077a6bd331e9c11e9610ce"
     },
     {
       "gmail_id": "1a20e96ee95e305c",
@@ -1872,7 +1879,8 @@
       "subject": "The N+1 Query Problem in Hibernate: Why Your Spring Boot API Executes Hundreds of SQL Queries",
       "received_at": "2026-10-16T03:10:00+00:00",
       "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142b021e63856c",
-      "status": "published"
+      "status": "published",
+      "published_post_id": "6b077a6bd331e9c11e9610ce"
     },
     {
       "gmail_id": "1a142b01e57981c2",
@@ -2476,5 +2484,6 @@
       "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0ceec847d610d4",
       "status": "collected"
     }
-  ]
+  ],
+  "last_updated": "2026-11-25"
 }
