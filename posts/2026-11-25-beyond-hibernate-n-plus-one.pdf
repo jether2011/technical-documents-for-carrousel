@@ -1,0 +1,197 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Length 678 >>
+stream
+0.058 0.09 0.16 rg 0 0 612 765 re f
+0.22 0.74 0.96 rg 44 677 112 4 re f
+0.24 0.76 0.94 rg BT /F2 14 Tf 1 0 0 1 44 706 Tm (THE ARCHITECTURE SERIES) Tj ET
+1 1 1 rg BT /F2 34 Tf 1 0 0 1 44 591 Tm (Beyond Hibernate) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 439 Tm (Why the N+1 query problem is an) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 404 Tm (architectural problem.) Tj ET
+0.1 0.17 0.27 rg 40 154 532 80 re f
+0.35 0.83 0.93 rg BT /F3 14 Tf 1 0 0 1 57 188 Tm (A data access decision can become a system-wide bottleneck.) Tj ET
+0.63 0.71 0.83 rg BT /F1 12 Tf 1 0 0 1 44 54 Tm (ENGINEERING INSIGHTS / DATA ACCESS) Tj ET
+0.63 0.71 0.83 rg BT /F2 12 Tf 1 0 0 1 510 54 Tm (01 / 08) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 751 >>
+stream
+0.058 0.09 0.16 rg 0 0 612 765 re f
+0.22 0.74 0.96 rg 44 677 112 4 re f
+0.24 0.76 0.94 rg BT /F2 14 Tf 1 0 0 1 44 706 Tm (01 / THE SYMPTOM) Tj ET
+1 1 1 rg BT /F2 34 Tf 1 0 0 1 44 591 Tm (One request. 101 queries.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 439 Tm (100 accounts and 100 distinct customers) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 404 Tm (can trigger 101 SELECTs when lazy loading) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 369 Tm (is not batched.) Tj ET
+0.1 0.17 0.27 rg 40 154 532 80 re f
+0.35 0.83 0.93 rg BT /F3 17 Tf 1 0 0 1 57 188 Tm (1 accounts query + 100 customer queries) Tj ET
+0.63 0.71 0.83 rg BT /F1 12 Tf 1 0 0 1 44 54 Tm (ENGINEERING INSIGHTS / DATA ACCESS) Tj ET
+0.63 0.71 0.83 rg BT /F2 12 Tf 1 0 0 1 510 54 Tm (02 / 08) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 766 >>
+stream
+0.058 0.09 0.16 rg 0 0 612 765 re f
+0.22 0.74 0.96 rg 44 677 112 4 re f
+0.24 0.76 0.94 rg BT /F2 14 Tf 1 0 0 1 44 706 Tm (02 / THE MECHANISM) Tj ET
+1 1 1 rg BT /F2 34 Tf 1 0 0 1 44 591 Tm (A getter can trigger I/O.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 439 Tm (The API loads accounts. The mapper navigates) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 404 Tm (customer associations. Hibernate issues) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 369 Tm (more queries for missing customers.) Tj ET
+0.1 0.17 0.27 rg 40 154 532 80 re f
+0.35 0.83 0.93 rg BT /F3 17 Tf 1 0 0 1 57 188 Tm (a.getCustomer\(\).getName\(\)) Tj ET
+0.63 0.71 0.83 rg BT /F1 12 Tf 1 0 0 1 44 54 Tm (ENGINEERING INSIGHTS / DATA ACCESS) Tj ET
+0.63 0.71 0.83 rg BT /F2 12 Tf 1 0 0 1 510 54 Tm (03 / 08) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 776 >>
+stream
+0.058 0.09 0.16 rg 0 0 612 765 re f
+0.22 0.74 0.96 rg 44 677 112 4 re f
+0.24 0.76 0.94 rg BT /F2 14 Tf 1 0 0 1 44 706 Tm (03 / THE FETCH PLAN) Tj ET
+1 1 1 rg BT /F2 34 Tf 1 0 0 1 44 591 Tm (Fetch the use case.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 439 Tm (A fetch join loads account and customer.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 404 Tm (Joining multiple collections can multiply) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 369 Tm (rows, so profile before applying it.) Tj ET
+0.1 0.17 0.27 rg 40 154 532 80 re f
+0.35 0.83 0.93 rg BT /F3 17 Tf 1 0 0 1 57 188 Tm (select a from Account a join fetch a.customer) Tj ET
+0.63 0.71 0.83 rg BT /F1 12 Tf 1 0 0 1 44 54 Tm (ENGINEERING INSIGHTS / DATA ACCESS) Tj ET
+0.63 0.71 0.83 rg BT /F2 12 Tf 1 0 0 1 510 54 Tm (04 / 08) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 776 >>
+stream
+0.058 0.09 0.16 rg 0 0 612 765 re f
+0.22 0.74 0.96 rg 44 677 112 4 re f
+0.24 0.76 0.94 rg BT /F2 14 Tf 1 0 0 1 44 706 Tm (04 / THE READ MODEL) Tj ET
+1 1 1 rg BT /F2 34 Tf 1 0 0 1 44 591 Tm (Return a projection.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 439 Tm (For list endpoints, fetch only required fields.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 404 Tm (A DTO can avoid hydrating a managed graph) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 369 Tm (merely to serialize a response.) Tj ET
+0.1 0.17 0.27 rg 40 154 532 80 re f
+0.35 0.83 0.93 rg BT /F3 17 Tf 1 0 0 1 57 188 Tm (select new AccountView\(a.id, c.name\) ...) Tj ET
+0.63 0.71 0.83 rg BT /F1 12 Tf 1 0 0 1 44 54 Tm (ENGINEERING INSIGHTS / DATA ACCESS) Tj ET
+0.63 0.71 0.83 rg BT /F2 12 Tf 1 0 0 1 510 54 Tm (05 / 08) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 764 >>
+stream
+0.058 0.09 0.16 rg 0 0 612 765 re f
+0.22 0.74 0.96 rg 44 677 112 4 re f
+0.24 0.76 0.94 rg BT /F2 14 Tf 1 0 0 1 44 706 Tm (05 / THE TRADE-OFF) Tj ET
+1 1 1 rg BT /F2 34 Tf 1 0 0 1 44 591 Tm (Batching is a fallback.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 439 Tm (Batch fetching reduces round trips,) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 404 Tm (although it still loads entities.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 369 Tm (Evaluate it against joins and projections.) Tj ET
+0.1 0.17 0.27 rg 40 154 532 80 re f
+0.35 0.83 0.93 rg BT /F3 17 Tf 1 0 0 1 57 188 Tm (hibernate.default_batch_fetch_size=32) Tj ET
+0.63 0.71 0.83 rg BT /F1 12 Tf 1 0 0 1 44 54 Tm (ENGINEERING INSIGHTS / DATA ACCESS) Tj ET
+0.63 0.71 0.83 rg BT /F2 12 Tf 1 0 0 1 510 54 Tm (06 / 08) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 825 >>
+stream
+0.058 0.09 0.16 rg 0 0 612 765 re f
+0.22 0.74 0.96 rg 44 677 112 4 re f
+0.24 0.76 0.94 rg BT /F2 14 Tf 1 0 0 1 44 706 Tm (06 / THE BOUNDARY) Tj ET
+1 1 1 rg BT /F2 34 Tf 1 0 0 1 44 591 Tm (Design reads around use) Tj ET
+1 1 1 rg BT /F2 34 Tf 1 0 0 1 44 541 Tm (cases.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 404 Tm (Keep domain rules in the write model.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 369 Tm (Use explicit query contracts for reads.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 334 Tm (Choose JPA projections or JDBC as needed.) Tj ET
+0.1 0.17 0.27 rg 40 154 532 80 re f
+0.35 0.83 0.93 rg BT /F3 17 Tf 1 0 0 1 57 188 Tm (API > Query port > Read adapter > SQL) Tj ET
+0.63 0.71 0.83 rg BT /F1 12 Tf 1 0 0 1 44 54 Tm (ENGINEERING INSIGHTS / DATA ACCESS) Tj ET
+0.63 0.71 0.83 rg BT /F2 12 Tf 1 0 0 1 510 54 Tm (07 / 08) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 784 >>
+stream
+0.058 0.09 0.16 rg 0 0 612 765 re f
+0.22 0.74 0.96 rg 44 677 112 4 re f
+0.24 0.76 0.94 rg BT /F2 14 Tf 1 0 0 1 44 706 Tm (07 / THE TAKEAWAY) Tj ET
+1 1 1 rg BT /F2 34 Tf 1 0 0 1 44 591 Tm (Measure the query budget.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 439 Tm (Track SQL statement counts, returned rows,) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 404 Tm (connection pool waits and p95 latency.) Tj ET
+1 1 1 rg BT /F1 18 Tf 1 0 0 1 44 369 Tm (Test realistic data sizes and cold caches.) Tj ET
+0.1 0.17 0.27 rg 40 154 532 80 re f
+0.35 0.83 0.93 rg BT /F3 17 Tf 1 0 0 1 57 188 Tm (Save this for your next architecture review.) Tj ET
+0.63 0.71 0.83 rg BT /F1 12 Tf 1 0 0 1 44 54 Tm (ENGINEERING INSIGHTS / DATA ACCESS) Tj ET
+0.63 0.71 0.83 rg BT /F2 12 Tf 1 0 0 1 510 54 Tm (08 / 08) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000163 00000 n 
+0000000233 00000 n 
+0000000308 00000 n 
+0000000376 00000 n 
+0000001104 00000 n 
+0000001250 00000 n 
+0000002051 00000 n 
+0000002197 00000 n 
+0000003014 00000 n 
+0000003162 00000 n 
+0000003989 00000 n 
+0000004137 00000 n 
+0000004964 00000 n 
+0000005112 00000 n 
+0000005927 00000 n 
+0000006075 00000 n 
+0000006951 00000 n 
+0000007099 00000 n 
+0000007934 00000 n 
+trailer
+<< /Size 22 /Root 1 0 R >>
+startxref
+8082
+%%EOF
