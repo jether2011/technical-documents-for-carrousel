@@ -1,0 +1,171 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 8 /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 533 >>
+stream
+0.055 0.086 0.15 rg 0 0 612 765 re f
+0.21 0.75 0.94 rg 42 685 115 5 re f
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 706 Tm (THE GAP) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 567 Tm (12ms SQL. 900ms API.) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 395 Tm (Requests include connection wait, SQL executio) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 365 Tm (n, row transfer, hydration, object mapping, ) Tj ET
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 93 Tm (ENGINEERING INSIGHTS) Tj ET
+0.64 0.72 0.8 rg BT /F4 13 Tf 1 0 0 1 44 54 Tm (1 / 8) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 541 >>
+stream
+0.055 0.086 0.15 rg 0 0 612 765 re f
+0.21 0.75 0.94 rg 42 685 115 5 re f
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 706 Tm (THE CHAIN) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 567 Tm (Queues, SQL, mapping, JSON) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 395 Tm (Requests include connection wait, SQL executio) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 365 Tm (n, row transfer, hydration, object mapping, ) Tj ET
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 93 Tm (ENGINEERING INSIGHTS) Tj ET
+0.64 0.72 0.8 rg BT /F4 13 Tf 1 0 0 1 44 54 Tm (2 / 8) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 590 >>
+stream
+0.055 0.086 0.15 rg 0 0 612 765 re f
+0.21 0.75 0.94 rg 42 685 115 5 re f
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 706 Tm (THE POOL) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 567 Tm (Check connection) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 513 Tm (acquisition) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 395 Tm (Requests include connection wait, SQL executio) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 365 Tm (n, row transfer, hydration, object mapping, ) Tj ET
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 93 Tm (ENGINEERING INSIGHTS) Tj ET
+0.64 0.72 0.8 rg BT /F4 13 Tf 1 0 0 1 44 54 Tm (3 / 8) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 537 >>
+stream
+0.055 0.086 0.15 rg 0 0 612 765 re f
+0.21 0.75 0.94 rg 42 685 115 5 re f
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 706 Tm (THE ORM) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 567 Tm (Rows must become objects) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 395 Tm (Requests include connection wait, SQL executio) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 365 Tm (n, row transfer, hydration, object mapping, ) Tj ET
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 93 Tm (ENGINEERING INSIGHTS) Tj ET
+0.64 0.72 0.8 rg BT /F4 13 Tf 1 0 0 1 44 54 Tm (4 / 8) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 541 >>
+stream
+0.055 0.086 0.15 rg 0 0 612 765 re f
+0.21 0.75 0.94 rg 42 685 115 5 re f
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 706 Tm (THE PAYLOAD) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 567 Tm (Serialization costs time) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 395 Tm (Requests include connection wait, SQL executio) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 365 Tm (n, row transfer, hydration, object mapping, ) Tj ET
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 93 Tm (ENGINEERING INSIGHTS) Tj ET
+0.64 0.72 0.8 rg BT /F4 13 Tf 1 0 0 1 44 54 Tm (5 / 8) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 592 >>
+stream
+0.055 0.086 0.15 rg 0 0 612 765 re f
+0.21 0.75 0.94 rg 42 685 115 5 re f
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 706 Tm (THE TRACE) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 567 Tm (Instrument request) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 513 Tm (boundaries) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 395 Tm (Requests include connection wait, SQL executio) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 365 Tm (n, row transfer, hydration, object mapping, ) Tj ET
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 93 Tm (ENGINEERING INSIGHTS) Tj ET
+0.64 0.72 0.8 rg BT /F4 13 Tf 1 0 0 1 44 54 Tm (6 / 8) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 537 >>
+stream
+0.055 0.086 0.15 rg 0 0 612 765 re f
+0.21 0.75 0.94 rg 42 685 115 5 re f
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 706 Tm (THE FIX) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 567 Tm (Address the longest wait) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 395 Tm (Requests include connection wait, SQL executio) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 365 Tm (n, row transfer, hydration, object mapping, ) Tj ET
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 93 Tm (ENGINEERING INSIGHTS) Tj ET
+0.64 0.72 0.8 rg BT /F4 13 Tf 1 0 0 1 44 54 Tm (7 / 8) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 538 >>
+stream
+0.055 0.086 0.15 rg 0 0 612 765 re f
+0.21 0.75 0.94 rg 42 685 115 5 re f
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 706 Tm (TAKEAWAY) Tj ET
+1 1 1 rg BT /F4 37 Tf 1 0 0 1 44 567 Tm (Measure the full request) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 395 Tm (Requests include connection wait, SQL executio) Tj ET
+1 1 1 rg BT /F3 16 Tf 1 0 0 1 44 365 Tm (n, row transfer, hydration, object mapping, ) Tj ET
+0.21 0.75 0.94 rg BT /F4 17 Tf 1 0 0 1 44 93 Tm (ENGINEERING INSIGHTS) Tj ET
+0.64 0.72 0.8 rg BT /F4 13 Tf 1 0 0 1 44 54 Tm (8 / 8) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 765] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 19 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000163 00000 n 
+0000000233 00000 n 
+0000000308 00000 n 
+0000000891 00000 n 
+0000001027 00000 n 
+0000001618 00000 n 
+0000001754 00000 n 
+0000002394 00000 n 
+0000002531 00000 n 
+0000003119 00000 n 
+0000003257 00000 n 
+0000003849 00000 n 
+0000003987 00000 n 
+0000004630 00000 n 
+0000004768 00000 n 
+0000005356 00000 n 
+0000005494 00000 n 
+0000006083 00000 n 
+trailer
+<< /Root 1 0 R /Size 21 >>
+startxref
+6221
+%%EOF
