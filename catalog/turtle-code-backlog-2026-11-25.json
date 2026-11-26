@@ -3,7 +3,7 @@
   "generated_at": "2026-11-25",
   "label": "THE_TURTLE_CODE",
   "record_count": 361,
-  "processing_note": "Updated 2026-11-26; union of previous inventory and verified recovered messages. Gmail pagination inconsistent with label count; preserve prior records. Today's two slots already scheduled; no additional posts.",
+  "processing_note": "Updated 2026-11-26 E2E validation; new Redis cache theme scheduled for 2026-11-27 08:45 America/Sao_Paulo, GitHub PDF and Markdown validated. Preserve all prior records.",
   "records": [
     {
       "gmail_id": "1a213d8c05b30eb2",
@@ -2500,7 +2500,13 @@
       "gmail_id": "1a2170c26610ffbd",
       "subject": "The Database Had the Correct Value. Redis Put the Old Value Back.",
       "received_at": "2026-11-26T08:50:00",
-      "status": "collected"
+      "status": "scheduled",
+      "article_slug": "redis-stale-cache-resurrection",
+      "github_dir": "https://github.com/jether2011/technical-documents-for-carrousel/tree/main/posts/redis-stale-cache-resurrection",
+      "pdf_url": "https://raw.githubusercontent.com/jether2011/technical-documents-for-carrousel/main/posts/redis-stale-cache-resurrection/carousel.pdf",
+      "zernio_post_id": "6b08c17edc86383ffc3eb984",
+      "scheduled_for": "2026-11-27T11:45:00.000Z",
+      "publication_status": "scheduled"
     },
     {
       "gmail_id": "1a1beadefa263a9b",
