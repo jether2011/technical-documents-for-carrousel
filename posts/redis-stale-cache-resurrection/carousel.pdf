@@ -1,0 +1,391 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R] /Count 9 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 915 >>
+stream
+0.059 0.067 0.086 rg
+0 0 1080 1350 re f
+0.965 0.788 0.082 rg
+0 1336 1080 14 re f
+0.965 0.788 0.082 rg
+BT /F2 25 Tf 1 0 0 1 84 1195 Tm (SYSTEM DESIGN / CACHE CONSISTENCY) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 82 Tf 1 0 0 1 84 1020 Tm (Your DB is right.) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 82 Tf 1 0 0 1 84 913 Tm (Your cache is wrong.) Tj ET
+0.106 0.122 0.161 rg
+84 388 908 360 re f
+0.965 0.788 0.082 rg
+84 739 908 9 re f
+0.969 0.961 0.933 rg
+BT /F2 36 Tf 1 0 0 1 120 641 Tm (The race condition hiding behind) Tj ET
+0.718 0.737 0.784 rg
+BT /F1 36 Tf 1 0 0 1 120 571 Tm (a successful database commit.) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 30 Tf 1 0 0 1 110 290 Tm (SWIPE FOR THE FAILURE MODE   >) Tj ET
+0.169 0.188 0.231 rg
+84 122 908 2 re f
+0.718 0.737 0.784 rg
+BT /F2 22 Tf 1 0 0 1 84 71 Tm (ENGINEERING INSIGHTS) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 24 Tf 1 0 0 1 889 71 Tm (1 / 9) Tj ET
+0.965 0.788 0.082 rg
+0 0 120 10 re f
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 1350] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 788 >>
+stream
+0.059 0.067 0.086 rg
+0 0 1080 1350 re f
+0.965 0.788 0.082 rg
+0 1336 1080 14 re f
+0.965 0.788 0.082 rg
+BT /F2 25 Tf 1 0 0 1 84 1195 Tm (01 / THE SYMPTOM) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 82 Tf 1 0 0 1 84 1020 Tm (One write.) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 82 Tf 1 0 0 1 84 913 Tm (Two truths.) Tj ET
+0.106 0.122 0.161 rg
+84 388 908 360 re f
+0.965 0.788 0.082 rg
+84 739 908 9 re f
+0.969 0.961 0.933 rg
+BT /F2 36 Tf 1 0 0 1 120 641 Tm (PostgreSQL contains version 8.) Tj ET
+0.718 0.737 0.784 rg
+BT /F1 36 Tf 1 0 0 1 120 571 Tm (Redis later serves version 7.) Tj ET
+0.169 0.188 0.231 rg
+84 122 908 2 re f
+0.718 0.737 0.784 rg
+BT /F2 22 Tf 1 0 0 1 84 71 Tm (ENGINEERING INSIGHTS) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 24 Tf 1 0 0 1 889 71 Tm (2 / 9) Tj ET
+0.965 0.788 0.082 rg
+0 0 240 10 re f
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 1350] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 1170 >>
+stream
+0.059 0.067 0.086 rg
+0 0 1080 1350 re f
+0.965 0.788 0.082 rg
+0 1336 1080 14 re f
+0.965 0.788 0.082 rg
+BT /F2 25 Tf 1 0 0 1 84 1195 Tm (02 / THE RACE) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 82 Tf 1 0 0 1 84 1020 Tm (A stale value) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 82 Tf 1 0 0 1 84 913 Tm (returns.) Tj ET
+0.106 0.122 0.161 rg
+84 640 908 106 re f
+0.965 0.788 0.082 rg
+84 640 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 685 Tm (A. Reader loads v7) Tj ET
+0.106 0.122 0.161 rg
+84 503 908 106 re f
+0.965 0.788 0.082 rg
+84 503 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 548 Tm (B. Writer commits v8) Tj ET
+0.106 0.122 0.161 rg
+84 366 908 106 re f
+0.965 0.788 0.082 rg
+84 366 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 411 Tm (C. Writer deletes cache) Tj ET
+0.106 0.122 0.161 rg
+84 229 908 106 re f
+0.965 0.788 0.082 rg
+84 229 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 274 Tm (D. Reader caches v7) Tj ET
+0.169 0.188 0.231 rg
+84 122 908 2 re f
+0.718 0.737 0.784 rg
+BT /F2 22 Tf 1 0 0 1 84 71 Tm (ENGINEERING INSIGHTS) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 24 Tf 1 0 0 1 889 71 Tm (3 / 9) Tj ET
+0.965 0.788 0.082 rg
+0 0 360 10 re f
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 1350] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 804 >>
+stream
+0.059 0.067 0.086 rg
+0 0 1080 1350 re f
+0.965 0.788 0.082 rg
+0 1336 1080 14 re f
+0.965 0.788 0.082 rg
+BT /F2 25 Tf 1 0 0 1 84 1195 Tm (03 / THE WRONG FIX) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 82 Tf 1 0 0 1 84 1020 Tm (TTL is not) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 82 Tf 1 0 0 1 84 913 Tm (a guarantee.) Tj ET
+0.106 0.122 0.161 rg
+84 388 908 360 re f
+0.965 0.788 0.082 rg
+84 739 908 9 re f
+0.969 0.961 0.933 rg
+BT /F2 36 Tf 1 0 0 1 120 641 Tm (Expiry limits how long stale data stays.) Tj ET
+0.718 0.737 0.784 rg
+BT /F1 36 Tf 1 0 0 1 120 571 Tm (It does not stop a stale refill.) Tj ET
+0.169 0.188 0.231 rg
+84 122 908 2 re f
+0.718 0.737 0.784 rg
+BT /F2 22 Tf 1 0 0 1 84 71 Tm (ENGINEERING INSIGHTS) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 24 Tf 1 0 0 1 889 71 Tm (4 / 9) Tj ET
+0.965 0.788 0.082 rg
+0 0 480 10 re f
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 1350] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 795 >>
+stream
+0.059 0.067 0.086 rg
+0 0 1080 1350 re f
+0.965 0.788 0.082 rg
+0 1336 1080 14 re f
+0.965 0.788 0.082 rg
+BT /F2 25 Tf 1 0 0 1 84 1195 Tm (04 / VERSIONING) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 82 Tf 1 0 0 1 84 1020 Tm (Versions make) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 82 Tf 1 0 0 1 84 913 Tm (ordering visible.) Tj ET
+0.106 0.122 0.161 rg
+84 388 908 360 re f
+0.965 0.788 0.082 rg
+84 739 908 9 re f
+0.969 0.961 0.933 rg
+BT /F2 36 Tf 1 0 0 1 120 641 Tm (Attach a monotonic source version) Tj ET
+0.718 0.737 0.784 rg
+BT /F1 36 Tf 1 0 0 1 120 571 Tm (to every cached snapshot.) Tj ET
+0.169 0.188 0.231 rg
+84 122 908 2 re f
+0.718 0.737 0.784 rg
+BT /F2 22 Tf 1 0 0 1 84 71 Tm (ENGINEERING INSIGHTS) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 24 Tf 1 0 0 1 889 71 Tm (5 / 9) Tj ET
+0.965 0.788 0.082 rg
+0 0 600 10 re f
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 1350] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 901 >>
+stream
+0.059 0.067 0.086 rg
+0 0 1080 1350 re f
+0.965 0.788 0.082 rg
+0 1336 1080 14 re f
+0.965 0.788 0.082 rg
+BT /F2 25 Tf 1 0 0 1 84 1195 Tm (05 / THE HIDDEN GAP) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 82 Tf 1 0 0 1 84 1020 Tm (An empty key) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 82 Tf 1 0 0 1 84 913 Tm (has no history.) Tj ET
+0.106 0.122 0.161 rg
+84 388 908 360 re f
+0.965 0.788 0.082 rg
+84 739 908 9 re f
+0.969 0.961 0.933 rg
+BT /F2 33 Tf 1 0 0 1 120 641 Tm (A compare-and-set on Redis alone) Tj ET
+0.718 0.737 0.784 rg
+BT /F1 33 Tf 1 0 0 1 120 571 Tm (cannot reject v7 after deleting v8.) Tj ET
+0.718 0.737 0.784 rg
+BT /F1 33 Tf 1 0 0 1 120 501 Tm (Preserve a separate version fence.) Tj ET
+0.169 0.188 0.231 rg
+84 122 908 2 re f
+0.718 0.737 0.784 rg
+BT /F2 22 Tf 1 0 0 1 84 71 Tm (ENGINEERING INSIGHTS) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 24 Tf 1 0 0 1 889 71 Tm (6 / 9) Tj ET
+0.965 0.788 0.082 rg
+0 0 720 10 re f
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 1350] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 1059 >>
+stream
+0.059 0.067 0.086 rg
+0 0 1080 1350 re f
+0.965 0.788 0.082 rg
+0 1336 1080 14 re f
+0.965 0.788 0.082 rg
+BT /F2 25 Tf 1 0 0 1 84 1195 Tm (06 / SYSTEM GUARANTEES) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 82 Tf 1 0 0 1 84 1020 Tm (Outbox helps.) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 82 Tf 1 0 0 1 84 913 Tm (Ordering still matters.) Tj ET
+0.106 0.122 0.161 rg
+84 640 908 106 re f
+0.965 0.788 0.082 rg
+84 640 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 685 Tm (Commit data + event together.) Tj ET
+0.106 0.122 0.161 rg
+84 503 908 106 re f
+0.965 0.788 0.082 rg
+84 503 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 548 Tm (Deliver events reliably.) Tj ET
+0.106 0.122 0.161 rg
+84 366 908 106 re f
+0.965 0.788 0.082 rg
+84 366 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 411 Tm (Reject replays and stale versions.) Tj ET
+0.169 0.188 0.231 rg
+84 122 908 2 re f
+0.718 0.737 0.784 rg
+BT /F2 22 Tf 1 0 0 1 84 71 Tm (ENGINEERING INSIGHTS) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 24 Tf 1 0 0 1 889 71 Tm (7 / 9) Tj ET
+0.965 0.788 0.082 rg
+0 0 840 10 re f
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 1350] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 1064 >>
+stream
+0.059 0.067 0.086 rg
+0 0 1080 1350 re f
+0.965 0.788 0.082 rg
+0 1336 1080 14 re f
+0.965 0.788 0.082 rg
+BT /F2 25 Tf 1 0 0 1 84 1195 Tm (07 / ARCHITECTURE REVIEW) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 82 Tf 1 0 0 1 84 1020 Tm (Define your) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 82 Tf 1 0 0 1 84 913 Tm (freshness budget.) Tj ET
+0.106 0.122 0.161 rg
+84 640 908 106 re f
+0.965 0.788 0.082 rg
+84 640 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 685 Tm (How stale can this endpoint be?) Tj ET
+0.106 0.122 0.161 rg
+84 503 908 106 re f
+0.965 0.788 0.082 rg
+84 503 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 548 Tm (Where is the authoritative version?) Tj ET
+0.106 0.122 0.161 rg
+84 366 908 106 re f
+0.965 0.788 0.082 rg
+84 366 8 106 re f
+0.969 0.961 0.933 rg
+BT /F2 39 Tf 1 0 0 1 118 411 Tm (How do we test concurrent fills?) Tj ET
+0.169 0.188 0.231 rg
+84 122 908 2 re f
+0.718 0.737 0.784 rg
+BT /F2 22 Tf 1 0 0 1 84 71 Tm (ENGINEERING INSIGHTS) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 24 Tf 1 0 0 1 889 71 Tm (8 / 9) Tj ET
+0.965 0.788 0.082 rg
+0 0 960 10 re f
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 1350] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 892 >>
+stream
+0.059 0.067 0.086 rg
+0 0 1080 1350 re f
+0.965 0.788 0.082 rg
+0 1336 1080 14 re f
+0.965 0.788 0.082 rg
+BT /F2 25 Tf 1 0 0 1 84 1195 Tm (08 / KEY TAKEAWAY) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 82 Tf 1 0 0 1 84 1020 Tm (A cache is) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 82 Tf 1 0 0 1 84 913 Tm (a replica.) Tj ET
+0.106 0.122 0.161 rg
+84 388 908 360 re f
+0.965 0.788 0.082 rg
+84 739 908 9 re f
+0.969 0.961 0.933 rg
+BT /F2 36 Tf 1 0 0 1 120 641 Tm (Measure latency and consistency.) Tj ET
+0.718 0.737 0.784 rg
+BT /F1 36 Tf 1 0 0 1 120 571 Tm (Save this for your next design review.) Tj ET
+0.965 0.788 0.082 rg
+BT /F2 30 Tf 1 0 0 1 110 290 Tm (SAVE THIS REVIEW CHECKLIST   >) Tj ET
+0.169 0.188 0.231 rg
+84 122 908 2 re f
+0.718 0.737 0.784 rg
+BT /F2 22 Tf 1 0 0 1 84 71 Tm (ENGINEERING INSIGHTS) Tj ET
+0.969 0.961 0.933 rg
+BT /F2 24 Tf 1 0 0 1 889 71 Tm (9 / 9) Tj ET
+0.965 0.788 0.082 rg
+0 0 1080 10 re f
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 1080 1350] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 21 0 R >>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000170 00000 n 
+0000000240 00000 n 
+0000000315 00000 n 
+0000001280 00000 n 
+0000001418 00000 n 
+0000002256 00000 n 
+0000002394 00000 n 
+0000003615 00000 n 
+0000003754 00000 n 
+0000004609 00000 n 
+0000004749 00000 n 
+0000005595 00000 n 
+0000005735 00000 n 
+0000006687 00000 n 
+0000006827 00000 n 
+0000007938 00000 n 
+0000008078 00000 n 
+0000009194 00000 n 
+0000009334 00000 n 
+0000010277 00000 n 
+trailer
+<< /Size 23 /Root 1 0 R >>
+startxref
+10417
+%%EOF
