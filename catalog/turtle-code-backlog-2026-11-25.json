@@ -2,8 +2,8 @@
   "schema_version": 1,
   "generated_at": "2026-11-25",
   "label": "THE_TURTLE_CODE",
-  "record_count": 353,
-  "processing_note": "353 Gmail messages enumerated from 359 label count. Status 'collected' means only indexed, not researched or scheduled. 2 scheduled and 1 published; deduplicate against GitHub folders and Zernio IDs before production.",
+  "record_count": 361,
+  "processing_note": "Updated 2026-11-26; union of previous inventory and verified recovered messages. Gmail pagination inconsistent with label count; preserve prior records. Today's two slots already scheduled; no additional posts.",
   "records": [
     {
       "gmail_id": "1a213d8c05b30eb2",
@@ -2482,6 +2482,54 @@
       "subject": "10 Concepts Every Backend Developer Should Know",
       "received_at": "2026-09-23T15:40:00+00:00",
       "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0ceec847d610d4",
+      "status": "collected"
+    },
+    {
+      "gmail_id": "1a21770d832493e0",
+      "subject": "What Actually Happens Between Two Microservices? The Complete Journey of an API Request",
+      "received_at": "2026-11-26T10:40:00",
+      "status": "collected"
+    },
+    {
+      "gmail_id": "1a2172307ac453c1",
+      "subject": "How to Process a 10GB CSV File in Java With Only 512MB of RAM",
+      "received_at": "2026-11-26T09:15:00",
+      "status": "collected"
+    },
+    {
+      "gmail_id": "1a2170c26610ffbd",
+      "subject": "The Database Had the Correct Value. Redis Put the Old Value Back.",
+      "received_at": "2026-11-26T08:50:00",
+      "status": "collected"
+    },
+    {
+      "gmail_id": "1a1beadefa263a9b",
+      "subject": "Top 20 JUnit Interview Questions and Answers for Java Developers",
+      "received_at": "2026-11-09T05:00:00",
+      "status": "collected"
+    },
+    {
+      "gmail_id": "1a1a797ba192ff8d",
+      "subject": "BFF Pattern: When Separate Frontends Need Different API Shapes",
+      "received_at": "2026-11-04T17:25:00",
+      "status": "collected"
+    },
+    {
+      "gmail_id": "1a19c819aed62351",
+      "subject": "Java Functional Interfaces Explained: Abstract vs Default vs Static Methods, Lambdas, and…",
+      "received_at": "2026-11-02T13:45:00",
+      "status": "collected"
+    },
+    {
+      "gmail_id": "1a196a4252aa098c",
+      "subject": "Functional vs Non-Functional Requirements: The Decisions That Change a System Design",
+      "received_at": "2026-11-01T10:25:00",
+      "status": "collected"
+    },
+    {
+      "gmail_id": "1a196288dc0fb040",
+      "subject": "TLS Termination and End-to-End Encryption Across Multiple Hops",
+      "received_at": "2026-11-01T08:10:00",
       "status": "collected"
     }
   ],
