@@ -1,2503 +1,2149 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "generated_at": "2026-11-25",
   "label": "THE_TURTLE_CODE",
   "record_count": 361,
   "processing_note": "Updated 2026-11-26 E2E validation; new Redis cache theme scheduled for 2026-11-27 08:45 America/Sao_Paulo, GitHub PDF and Markdown validated. Preserve all prior records.",
   "records": [
     {
-      "gmail_id": "1a213d8c05b30eb2",
       "subject": "The 90% Backend Engineer: Mastering API Integrations Beyond the Happy Path",
       "received_at": "2026-11-25T17:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a213d8c05b30eb2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "139b626ca95683bc122c3db7ae98a69659af68a47f00adb09e5c0fb0480efde6"
     },
     {
-      "gmail_id": "1a213d42b153a349",
       "subject": "H2 Passed the Test. PostgreSQL Rejected the Query.",
       "received_at": "2026-11-25T17:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a213d42b153a349",
       "status": "scheduled",
       "slug": "h2-postgresql-test-fidelity",
       "zernio_post_id": "6b077d75c550a476e32a2ece",
-      "scheduled_for": "2026-11-26T12:00:00-03:00"
+      "scheduled_for": "2026-11-26T12:00:00-03:00",
+      "gmail_id_sha256": "28c2f16de35c3d87893bf10d7ccb5a9bc4cf743ebbeee45cc6a845183bb4f353"
     },
     {
-      "gmail_id": "1a213d42b0980ef6",
       "subject": "One Button to Rotate Every Secret: Building an Organization-Wide Secrets Management and Rotation…",
       "received_at": "2026-11-25T17:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a213d42b0980ef6",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "13fadfeaede20f11b8265f4469269fca46769fd5c482fd14b0f68f39dec988bf"
     },
     {
-      "gmail_id": "1a213cf993beed9e",
       "subject": "The SQL Was Fast in psql but the Java Endpoint Was Slow",
       "received_at": "2026-11-25T17:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a213cf993beed9e",
       "status": "scheduled",
       "slug": "slow-java-endpoint-fast-sql",
       "zernio_post_id": "6b077d7838cc69696f28d5b7",
-      "scheduled_for": "2026-11-26T18:30:00-03:00"
+      "scheduled_for": "2026-11-26T18:30:00-03:00",
+      "gmail_id_sha256": "7b1c166642b8e7baf772a79d0990c30fd01e1663e09db11614339e07b7f66345"
     },
     {
-      "gmail_id": "1a2139417ad52d64",
       "subject": "The Trace Ended at the Repository, but the Request Was Still Slow",
       "received_at": "2026-11-25T16:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2139417ad52d64",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f3155236ea3cb7d443388e0d83ae86c0f74c93aa6de7a527e84fdab5d4730539"
     },
     {
-      "gmail_id": "1a20e9c2808685f7",
       "subject": "Liskov Substitution Principle (LSP): Understanding, Identifying, and Fixing Design Violations in…",
       "received_at": "2026-11-24T17:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20e9c2808685f7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "10f9a4c106fa2a7b0989300f4cfad1d1c89e00b19f0152f281617215f00bc95a"
     },
     {
-      "gmail_id": "1a20e9c0ec1edbcb",
       "subject": "HikariCP in Java: A Complete 20-Minute Guide From Basics to Advanced Concepts",
       "received_at": "2026-11-24T17:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20e9c0ec1edbcb",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1dcf7a6b6f5f2e950d4fc876f9272ff2f21e057895bad35f1dbac1129e4c8da8"
     },
     {
-      "gmail_id": "1a20e9bb7867ce40",
       "subject": "IAM Authentication Internals: How Organizations Secure Microservices, Databases, and Internal…",
       "received_at": "2026-11-24T17:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20e9bb7867ce40",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7e16b11570c99ee947e236ab20fcb37240aa4b937b4f4734f8c2a6b03fe27942"
     },
     {
-      "gmail_id": "1a20e9b86d45bda3",
       "subject": "The N+1 Query Problem in Java, JDBC & Spring Boot: A Complete Production Engineering Guide",
       "received_at": "2026-11-24T17:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20e9b86d45bda3",
       "status": "covered_by_published",
-      "published_post_id": "6b077a6bd331e9c11e9610ce"
+      "published_post_id": "6b077a6bd331e9c11e9610ce",
+      "gmail_id_sha256": "c9aa95984c2b1a0e36e9c6fc4243657fdd288fd1b7dc1dca8bc5713d75a6141c"
     },
     {
-      "gmail_id": "1a20e96ee95e305c",
       "subject": "Understanding JDBC, ORM, Hibernate, HikariCP, and Spring Data JPA: How Java Communicates with a…",
       "received_at": "2026-11-24T17:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20e96ee95e305c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "420696efa0835d0dc0d879902ce27817965c833ae1562af0e021af4ddc9847cf"
     },
     {
-      "gmail_id": "1a20e96e8cf1fa86",
       "subject": "SOLID Principles in Software Design: From Fundamentals to Advanced Practical Understanding",
       "received_at": "2026-11-24T17:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20e96e8cf1fa86",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "90ccd1b011aa61fd8e8fccf0b81a2bf6582e2830095c62e7dac730d985f123e6"
     },
     {
-      "gmail_id": "1a20e6514a0bf724",
       "subject": "End-to-End Logging and Observability in a Microservices Architecture",
       "received_at": "2026-11-24T16:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20e6514a0bf724",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cbf7b0ac2327a7479b29a72af7a6ac1db75476dbac906bf613ca12f029ec17db"
     },
     {
-      "gmail_id": "1a2092754dce796c",
       "subject": "The API Returned Success Before the Transaction Commit Failed",
       "received_at": "2026-11-23T16:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2092754dce796c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "679931107d3e9e8f7a1a56c03e2da8d39827f2b5ea631a3516742a3fdc03545c"
     },
     {
-      "gmail_id": "1a209238f3c41cfb",
       "subject": "The Health Check Passed While Requests Could Not Get a JDBC Connection",
       "received_at": "2026-11-23T16:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a209238f3c41cfb",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6412b778bf27253a51c462e62b5f1550ace1067f51161eebe38475f094dc9e38"
     },
     {
-      "gmail_id": "1a2091e2b9a534c9",
       "subject": "@Transactional Worked in the Test. The Production Call Never Started a Transaction.",
       "received_at": "2026-11-23T15:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2091e2b9a534c9",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "b81c7f852b44d850285880eb1df04671eb0a487afff6eafd4d2182d14d2fd730"
     },
     {
-      "gmail_id": "1a2091e2ab496ae2",
       "subject": "The JDBC Batch Failed Halfway: Which Rows Actually Committed?",
       "received_at": "2026-11-23T15:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2091e2ab496ae2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "b93267008642b74ef3e3750876ed27b59f19f1ce0b1ecebf8b1ef57b9af0de31"
     },
     {
-      "gmail_id": "1a2091e2ab01c677",
       "subject": "A Jackson Configuration Change Broke Old API Clients",
       "received_at": "2026-11-23T15:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2091e2ab01c677",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cdd63a2b31a0d03396c7d3f85c60c985fbea290becb28d594d4fdac052b96cd7"
     },
     {
-      "gmail_id": "1a2091e299799e92",
       "subject": "Virtual Threads Removed Thread Starvation. JDBC Was Still the Bottleneck.",
       "received_at": "2026-11-23T15:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2091e299799e92",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "160a2bc764c47422369d3c8ce438efb594f2999749445d1c4a6dbe62d2769b87"
     },
     {
-      "gmail_id": "1a2091e291abb11a",
       "subject": "The JDBC Connection Was Returned to HikariCP. The PostgreSQL Transaction Was Still Open.",
       "received_at": "2026-11-23T15:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2091e291abb11a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4e26608c4ed990d98149ec027614b90b5c08ae487d4fbb5cd905db45e542a753"
     },
     {
-      "gmail_id": "1a2091e2708771e2",
       "subject": "REQUIRES_NEW Audit Logging Exhausted the Connection Pool",
       "received_at": "2026-11-23T15:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2091e2708771e2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "695135fa9f9fe9a672bea3eb94f59ef70dd4968c729bf27289d5fa6e70a31b4e"
     },
     {
-      "gmail_id": "1a209199674c2bc2",
       "subject": "The Retry Charged the Customer Again After the First Commit",
       "received_at": "2026-11-23T15:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a209199674c2bc2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "9c9d5aa7e0af617ca58f7a9ee2f5eb9665d8c39d1fd92213ee46487c6626a60a"
     },
     {
-      "gmail_id": "1a20919934a40cfc",
       "subject": "@Async Lost the Transaction Context and Trace",
       "received_at": "2026-11-23T15:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20919934a40cfc",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6f61fef4b279a9940a05a2d6b46d9282aa82b98e9226233988516703a8c3f0e4"
     },
     {
-      "gmail_id": "1a209106c344c0a0",
       "subject": "HikariCP Was Healthy, but Requests Were Queued Behind Long Transactions",
       "received_at": "2026-11-23T15:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a209106c344c0a0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "39b58a0955dfc4e81250392b9db90f73fb86b24068662fa8cc9c5c5bdab8dc65"
     },
     {
-      "gmail_id": "1a2090787e7bec37",
       "subject": "saveAll Looked Like a Batch Insert. The SQL Logs Said Otherwise.",
       "received_at": "2026-11-23T15:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2090787e7bec37",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "acb583f28c3d4e58bb8959d4e10555a3eaa84080514788f7af59157dfcff2a41"
     },
     {
-      "gmail_id": "1a20902af1d36385",
       "subject": "The Migration Passed. The Old Spring Boot Pods Crashed.",
       "received_at": "2026-11-23T15:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20902af1d36385",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4a8fc1da0641319e23e66f19b038a0924ecff73fb0139b549cc4f2eec4e1a154"
     },
     {
-      "gmail_id": "1a208fe23cc361ee",
       "subject": "Test the Crash Between the Database Commit and the Kafka Offset Commit",
       "received_at": "2026-11-23T15:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a208fe23cc361ee",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "b9196751f2cf2bda89da8f5ece5b51054d157fec2df72c2e214d97835e838aec"
     },
     {
-      "gmail_id": "1a208fe1f6ba5207",
       "subject": "Can a Spring Boot API Serve Reads Directly From Kafka Streams State?",
       "received_at": "2026-11-23T15:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a208fe1f6ba5207",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "28e6743e417882bf65a931e05d9d62618040aefec169d732799bbbe5ba43030e"
     },
     {
-      "gmail_id": "1a208fe1d5de40c4",
       "subject": "Two Databases, One Payment: How a Partial Commit Created Inconsistent State",
       "received_at": "2026-11-23T15:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a208fe1d5de40c4",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5aa035e6e2f2e38a341d21946940998b093138af99968c2e8a0fe8a87bbda54e"
     },
     {
-      "gmail_id": "1a208fe1d2eefdb1",
       "subject": "The API Timed Out, but the JDBC Query Kept Running",
       "received_at": "2026-11-23T15:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a208fe1d2eefdb1",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "457ba78f1f0d1cc05e35df68ea891ecb9494b9b048dc2cb0d424c383c5fb9386"
     },
     {
-      "gmail_id": "1a208f066dd3d895",
       "subject": "Why Did a Deleted Customer Reappear After a Kafka Rebuild?",
       "received_at": "2026-11-23T15:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a208f066dd3d895",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "64abb116d51e107b9d98346fecc25e835016f5b706e7267dac88b6a617068630"
     },
     {
-      "gmail_id": "1a208f0648c5e02a",
       "subject": "What Happens to In-Flight Records When You Roll Out a Spring Kafka Consumer?",
       "received_at": "2026-11-23T15:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a208f0648c5e02a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "b2055ca0bdb002f354afd5d4491ac02c264e50336058c675bf3052688e91040f"
     },
     {
-      "gmail_id": "1a208f06466e4236",
       "subject": "readOnly=true Did Not Stop the Database Write",
       "received_at": "2026-11-23T15:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a208f06466e4236",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0edc8f4d4adf1983e3f93cbda98e9f56410ae52b58edb70936c4df04404ea68c"
     },
     {
-      "gmail_id": "1a208f063c482dc8",
       "subject": "The Refund Arrived After the Reporting Window Closed",
       "received_at": "2026-11-23T15:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a208f063c482dc8",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "294edc71b4f18cb025e5bd34fa98de3fdd913ca7d3c4f19f5e9f492ff124cbd8"
     },
     {
-      "gmail_id": "1a208f061ea1bd6e",
       "subject": "We Doubled Kafka Partitions and Broke Per-Order Ordering",
       "received_at": "2026-11-23T15:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a208f061ea1bd6e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8c44100eb61b63e4789164de7bdda8b130cd5eea520525ab4b3d02f4d3a4fc0c"
     },
     {
-      "gmail_id": "1a203ca0686cd8e9",
       "subject": "Replay a Week of Kafka Without Sending Duplicate Emails",
       "received_at": "2026-11-22T15:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a203ca0686cd8e9",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f0e877aa184ce114d590eac45031a3d7adb2b5ddd4667f18f17f283db66a82f1"
     },
     {
-      "gmail_id": "1a20397ad40082a5",
       "subject": "How Long Will Your Kafka Streams Service Take to Recover After a Pod Dies?",
       "received_at": "2026-11-22T14:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20397ad40082a5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "719e4c7d5aee4ff14aa6d46c341589833fa798a55100a535ad052c93d5082c1e"
     },
     {
-      "gmail_id": "1a20397ac0c599c6",
       "subject": "Your Spring Boot API Timed Out While Kafka Was Still Sending",
       "received_at": "2026-11-22T14:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a20397ac0c599c6",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3307f670ef57df200ab23cac956eefb2514d5f48e35a658ae7f052d22a755984"
     },
     {
-      "gmail_id": "1a203931a02d000a",
       "subject": "The Payment API Slowed Down. How Should Your Spring Kafka Consumer Respond?",
       "received_at": "2026-11-22T14:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a203931a02d000a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8ea725c85af64f540092cf9e7da3239aada5f1f3f04aaf0e3d89d624da89a1ca"
     },
     {
-      "gmail_id": "1a2029be5db3a40c",
       "subject": "Your Kubernetes Pods Are Running. So Why Are Requests Failing?",
       "received_at": "2026-11-22T09:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a2029be5db3a40c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "e7afd0e44162bd26511d168ff49acd8a1755c05dc20310fb85b8eaa9f885cf3a"
     },
     {
-      "gmail_id": "1a1f524f265a1249",
       "subject": "One User. Three OTPs. Twelve Pods. The Idempotency Problem Nobody Designs For.",
       "received_at": "2026-11-19T18:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1f524f265a1249",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8232521757036a08c84c73c36a6699d7f0da3c5fee8a4c4419ab63993b94e059"
     },
     {
-      "gmail_id": "1a1f524f1f2963db",
       "subject": "Traefik Told the Backend a Client Certificate Was Verified. It Wasn’t.",
       "received_at": "2026-11-19T18:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1f524f1f2963db",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8af05ca04be82d473bf03b2fcdfb74291096ac0b018a984594aa54bb650c505d"
     },
     {
-      "gmail_id": "1a1f524efbbef8ac",
       "subject": "We Never Used FOR UPDATE. PostgreSQL Still Blocked Our Transactions.",
       "received_at": "2026-11-19T18:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1f524efbbef8ac",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d63342b78b0e0773ea71b6705206155ac0135b7c2293691b888a663dd363e8ed"
     },
     {
-      "gmail_id": "1a1f524ee660ba00",
       "subject": "Java 28 Changes What == Means for Objects You Already Use. Your Code May Never Be the Same.",
       "received_at": "2026-11-19T18:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1f524ee660ba00",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "894a1f58c698add39a3180e7b52cfa0f2f3210880376271b66e6239a822da684"
     },
     {
-      "gmail_id": "1a1f5205cf52f4e2",
       "subject": "PostgreSQL Just Fixed 52 Security Vulnerabilities.",
       "received_at": "2026-11-19T18:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1f5205cf52f4e2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6f1adb7bef35fcdb26bea71692c35766247af503fe1700939f03c9c727dede41"
     },
     {
-      "gmail_id": "1a1f5205ce00ae10",
       "subject": "NGINX2Root: How an 11-Year-Old HTTP/2 Bug Put Millions of Web Servers at Risk",
       "received_at": "2026-11-19T18:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1f5205ce00ae10",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0476a6fa9a0eb2f58c7c6c8cea71f72fdd0766cf5a511efedf20f0e6dde40788"
     },
     {
-      "gmail_id": "1a1eff0d7dda15d6",
       "subject": "The Kafka Consumer Stopped. Its Dead-Letter Producer Never Did.",
       "received_at": "2026-11-18T18:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1eff0d7dda15d6",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "39fcf57d382a6113cc5d9b9290cd1d14d41ad917b0ae82bae42442df5f28a217"
     },
     {
-      "gmail_id": "1a1efecb6c0ec435",
       "subject": "Spring Boot 4 Upgraded. Database Traffic Stayed Flat. The Connection Pool Still Ran Dry.",
       "received_at": "2026-11-18T18:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1efecb6c0ec435",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "76fa175a00a93071f9acece4a1f9128799f570d2ee8dccca4d9b2cb7c3948304"
     },
     {
-      "gmail_id": "1a1efe7b2aeac035",
       "subject": "Your Spring AI Agent Hit the Token Limit. It Executed the Tool Anyway.",
       "received_at": "2026-11-18T18:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1efe7b2aeac035",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "98d2e3babab12e4854ec4629ef3d6439b37e9e2426765a2738a1c4ec4ef5ed27"
     },
     {
-      "gmail_id": "1a1efe7b0970437a",
       "subject": "Your API Responds in 50ms. So Why Are Users Waiting 2 Seconds? Understanding p99 Latency",
       "received_at": "2026-11-18T18:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1efe7b0970437a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "433a8c9a9b4957bd109e695238381c5c7048745f8ece802f69e2849c5aeaf49b"
     },
     {
-      "gmail_id": "1a1efe31eb4a5f6d",
       "subject": "I Changed USER to ADMIN in a JWT. Here’s Why the API Rejected It.",
       "received_at": "2026-11-18T18:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1efe31eb4a5f6d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "895eaf7736084d4a21caeb503c410aef549c26b0141cfeb7c79d3a441073094c"
     },
     {
-      "gmail_id": "1a1efd563bdacf98",
       "subject": "One Thread. Two JSON Writes. Corrupted Logs. The Spring Boot Reentrancy Bug.",
       "received_at": "2026-11-18T18:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1efd563bdacf98",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2758473fe3792fafe5a1fb022ec709d45e4503d0b9a6070c2b5ed7892e1e5b2f"
     },
     {
-      "gmail_id": "1a1efd19507bb429",
       "subject": "Cloudflare’s AI Returned Another Customer’s Data. The HTTP Status Was 200.",
       "received_at": "2026-11-18T18:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1efd19507bb429",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2767b99e7aab7f155dde7e279ec9e0d76aa09ba0c665e6cc285a8bada8937f9c"
     },
     {
-      "gmail_id": "1a1efd14be1c3eb1",
       "subject": "Java4Shell Wasn’t a Spring Security Bug. It Was Buried in the JVM’s Base64 Decoder.",
       "received_at": "2026-11-18T18:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1efd14be1c3eb1",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "adb27eda63c351b8ebdd45a63929ba2415af9a54f08956f1152e8e84439f2b12"
     },
     {
-      "gmail_id": "1a1efa79d05369c3",
       "subject": "Cloudflare Workers Are Not Tiny Servers: Why the Edge Changes Your Architecture (and When It Makes…",
       "received_at": "2026-11-18T17:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1efa79d05369c3",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c63730b7ce00bc93d659f6580730c9f25cc3c5c81cfbe3364046264d4496f834"
     },
     {
-      "gmail_id": "1a1ea613585992db",
       "subject": "One Million Rows in PostgreSQL: JDBC Batching vs COPY, Tested Properly",
       "received_at": "2026-11-17T16:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1ea613585992db",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2e4921163838c63f0164758e6c6d10a17a2453b8efe7d2e57f95b58a68a34452"
     },
     {
-      "gmail_id": "1a1ea6132ff9f431",
       "subject": "Your Spring AI Agent Worked — Until a Restart Made It Forget Its Tool Calls",
       "received_at": "2026-11-17T16:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1ea6132ff9f431",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6f38d293de80392d7bb53565df4cf28f30a73e537359e417c19ea9dfb14788d1"
     },
     {
-      "gmail_id": "1a1ea5c9fad7c912",
       "subject": "Kafka Had Three Replicas. A Rolling Restart Still Broke Production.",
       "received_at": "2026-11-17T16:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1ea5c9fad7c912",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "b5ffb8bd629245c1ef8324a7d46cda1c5139c03739019002b85e427207737647"
     },
     {
-      "gmail_id": "1a1ea586d7eee5cd",
       "subject": "Java 27 Changed the Default Garbage Collector in Small Containers.",
       "received_at": "2026-11-17T16:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1ea586d7eee5cd",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "582a342cea1c6976f55f4cad25c95d8491e1863ed53f1c77c2fade738e222c21"
     },
     {
-      "gmail_id": "1a1ea537841e9123",
       "subject": "Goldman Sachs Java Backend Interview: 5 Rounds, 3 Coding Problems, and the Follow-Up Questions That…",
       "received_at": "2026-11-17T16:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1ea537841e9123",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "46cb1b4ff472a27178b868d74d32eee06d8892b3a8c01b0dba9f0dcab58d00be"
     },
     {
-      "gmail_id": "1a1ddea99cace4b7",
       "subject": "Business Logic Attacks: How Attackers Exploit OTP Recovery, Account Takeover, Payment Workflows and…",
       "received_at": "2026-11-15T06:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1ddea99cace4b7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "62a43ca93deccc833ddb2c052a413934c38d66757334abe64cf930ab9bb98a2f"
     },
     {
-      "gmail_id": "1a1ddea9717990e8",
       "subject": "Multi-Tenant Security in Production: How BOLA, IDOR, Broken Authorization, PostgreSQL RLS and Cache…",
       "received_at": "2026-11-15T06:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1ddea9717990e8",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "06c076cb652346ce2575bf4b32ddce7ca146b79c331a6438e2b409f02a8502ba"
     },
     {
-      "gmail_id": "1a1ddea930f8ffbe",
       "subject": "Spring Boot Actuator: Complete Guide to Configuration, Security, Monitoring and Production…",
       "received_at": "2026-11-15T06:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1ddea930f8ffbe",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1ce9365c50cb84916d99b0dbb6018eabe62a69da67f58830977736250073f0b8"
     },
     {
-      "gmail_id": "1a1dde6ee2f21f7a",
       "subject": "Your Spring Boot Application Is Slow, but Your Database Is Fine: The Hidden Cost of Connection…",
       "received_at": "2026-11-15T06:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1dde6ee2f21f7a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "989ecacc57254530027ff9951a920bdfdfc1a854ec74935f001b01fa06350fe9"
     },
     {
-      "gmail_id": "1a1d9e49e92ad6f5",
       "subject": "From Application Compromise to Database Security Hardening",
       "received_at": "2026-11-14T11:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d9e49e92ad6f5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a6504f30f4c7b84991551f2f2cf6b3b60a4dd515113c49baf4d3614f47e53aa4"
     },
     {
-      "gmail_id": "1a1d9e49e1529f42",
       "subject": "Identity Compromise: How Attackers Exploit OAuth Tokens, Service Accounts and Privileged Access in…",
       "received_at": "2026-11-14T11:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d9e49e1529f42",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0461f488d63b75720d1c7faabd4acb23e3bef00fa8b5b8914ce548442a35c45b"
     },
     {
-      "gmail_id": "1a1d936a892a9cc5",
       "subject": "Production Incident Response and Recovery: How to Investigate, Contain and Recover a Compromised…",
       "received_at": "2026-11-14T08:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d936a892a9cc5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "fa7e30d4520a75abc2d952dd0ef1f85539db6e09e94e24025643e4f6a2fc94cf"
     },
     {
-      "gmail_id": "1a1d916a21f0af7c",
       "subject": "Secrets Management and CI/CD Compromise: How Attackers Reach Production Through Developer…",
       "received_at": "2026-11-14T08:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d916a21f0af7c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "004cf8bf14cbe9f1cdf3b0fcd42cd9d791e253755a5efd9750bd30e21e594341"
     },
     {
-      "gmail_id": "1a1d5e33c253c27c",
       "subject": "From Static Database Passwords to AWS IAM Authentication: A 35-Minute Production Security…",
       "received_at": "2026-11-13T17:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d5e33c253c27c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7dab45874359234fde2c7a45cbb0a427fe1f17dd304e7aafb08b97ed12de5be0"
     },
     {
-      "gmail_id": "1a1d5e3380505cfb",
       "subject": "IAM and Row-Level Security (RLS): An End-to-End Guide with Java Spring Boot and PostgreSQL",
       "received_at": "2026-11-13T17:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d5e3380505cfb",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8cf87d8694a4a8f3b07a03adf56bc5507a7b158cde1f40ca5ccdad8b344ea67d"
     },
     {
-      "gmail_id": "1a1d018137eb7ea2",
       "subject": "Your Product Was Updated, but Search Still Shows Yesterday’s Price",
       "received_at": "2026-11-12T14:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d018137eb7ea2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5e796285c6565bbbc1dce0b5c97e59d0023b70c06f5d951ddc8fb5485612971f"
     },
     {
-      "gmail_id": "1a1d0181153e77ea",
       "subject": "8 Liquibase Mistakes That Break Spring Boot Deployments (and How to Test for Them)",
       "received_at": "2026-11-12T14:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d0181153e77ea",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4240ca1da157bc291878a1e22ed1f6a8894c9659c8039493924b3bc4b3288078"
     },
     {
-      "gmail_id": "1a1d01810bd868a6",
       "subject": "JDK 27 Compact Object Headers: What Changes in a Real Spring Boot Application?",
       "received_at": "2026-11-12T14:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d01810bd868a6",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "42f1fb4607c8c03164c3bb209ade1c9d5601083ebd8eb3565e3ba1f3e1125989"
     },
     {
-      "gmail_id": "1a1d0137e2a33cf7",
       "subject": "Spring Boot 4.2 RC2: The Redis Configuration Change You Should Test Before Upgrading",
       "received_at": "2026-11-12T14:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d0137e2a33cf7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d211f63d6861149175156b06513a0455477a5b1b89f85019b4a7ff5e81e9a2be"
     },
     {
-      "gmail_id": "1a1d0137c3d7a48f",
       "subject": "Spring AI DecisionModel: Build Typed AI Decisions Without Parsing Free-Text Responses",
       "received_at": "2026-11-12T14:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1d0137c3d7a48f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "63bc084516dc9af3f9fe63d36bc784949e7ab1eeb1a0b8d56a987cbd0e5315a4"
     },
     {
-      "gmail_id": "1a1c8e7dedd07b87",
       "subject": "Profile a Slow Java Service With JFR and Async Profiler",
       "received_at": "2026-11-11T04:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8e7dedd07b87",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2975819859df7ab960b77be0305d462cc7cea6500c20a0ae4461134cbf5434e4"
     },
     {
-      "gmail_id": "1a1c8e7de2eba721",
       "subject": "Java Strings: The Complete Masterclass — From Core Java Fundamentals to JVM Internals…",
       "received_at": "2026-11-11T04:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8e7de2eba721",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d2b7dbdefc161b1e8ab875297cc5f0a91a9ac1fbf5dd7e69a233d9f985075dba"
     },
     {
-      "gmail_id": "1a1c8e7dc24843f2",
       "subject": "G1 vs ZGC: Choosing a Java Garbage Collector for Your Workload",
       "received_at": "2026-11-11T04:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8e7dc24843f2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4787eb419ecf04b624e7645a62efc497565f8807616e9e18a77ee06d8de4fd8a"
     },
     {
-      "gmail_id": "1a1c8e34a7f96f22",
       "subject": "1,000 Customers Bought the Last 500 Items",
       "received_at": "2026-11-11T04:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8e34a7f96f22",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a9bd6ebecdcb53eb8f9348dd1fbad4ca11b23a7944e3d256421d082acc675004"
     },
     {
-      "gmail_id": "1a1c8e348336f7f3",
       "subject": "The Payment Looked Normal. The Twelfth Attempt Exposed the Fraud.",
       "received_at": "2026-11-11T04:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8e348336f7f3",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6d03888e23dbf8d497167a4f1a6c7ce0249bb0c35601b7cbc2cdbe13fd602e13"
     },
     {
-      "gmail_id": "1a1c8df7144ff237",
       "subject": "Your Spring Boot Pods Were Ready. Your Java Service Was Not Fast Yet.",
       "received_at": "2026-11-11T04:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8df7144ff237",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7fdc0d91e6106fde6b17c419054e6b575b95504794137fd74557659a64852832"
     },
     {
-      "gmail_id": "1a1c8df07dfc6284",
       "subject": "We Almost Split Our Spring Boot Application into 15 Microservices",
       "received_at": "2026-11-11T04:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8df07dfc6284",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0bfc15f0877cc52a1d8d03df0e140fc77a842361a7fde0210c24f3f3f7a6fce1"
     },
     {
-      "gmail_id": "1a1c8da2265ac070",
       "subject": "Java’s equals() and hashCode(): The Bug That Breaks HashMap",
       "received_at": "2026-11-11T04:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8da2265ac070",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0e93a9c63200774e61da567485d7a1ba27d95d1dd6997f44cfbe629538f13ed1"
     },
     {
-      "gmail_id": "1a1c8da226019220",
       "subject": "Apache Kafka Explained: Why Netflix-Scale Systems Need It, How It Works, and When You Should NOT…",
       "received_at": "2026-11-11T04:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8da226019220",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0ba3f4eeed936b546da0574870456156a1705b715b7a69fe34871a113681d5bd"
     },
     {
-      "gmail_id": "1a1c8da224fa6d39",
       "subject": "Java volatile Explained: Why Visibility Is Not the Same as Thread Safety",
       "received_at": "2026-11-11T04:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8da224fa6d39",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2c51cbef90a548b09ca83f04f79f1b40ce741bbc5be23cc1b141e241d337c02b"
     },
     {
-      "gmail_id": "1a1c8da2200f74c2",
       "subject": "LRU Cache: From a 30-Minute Coding Interview to a Production-Ready Distributed Cache",
       "received_at": "2026-11-11T04:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8da2200f74c2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "363b128070e04733a8157f2232c4957b14c239e2a60e72d7bfc0ff18f376e8a8"
     },
     {
-      "gmail_id": "1a1c8d58ef127a81",
       "subject": "Java Default Methods Explained: The Problem They Solved, the Diamond Problem, and the Rules Every…",
       "received_at": "2026-11-11T04:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8d58ef127a81",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "473304db474c235df7fd56d8ba71f665f610bc4ed8cdb2e163c0002e0082c5b1"
     },
     {
-      "gmail_id": "1a1c8d58e33dde23",
       "subject": "How Java’s Happens-Before Relationship Actually Works",
       "received_at": "2026-11-11T04:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8d58e33dde23",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "93117a6eb40c13d57257ddc7455fae09fea58cf74605e291d9cddf826bd60c90"
     },
     {
-      "gmail_id": "1a1c8d58db56d2b3",
       "subject": "OFFSET vs Cursor Pagination: The Database Query That Works at 1,000 Rows but Fails at 10 Million",
       "received_at": "2026-11-11T04:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8d58db56d2b3",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "bce303ca8f62d269d356b8f1b6c57e49b7ed5618762519f6236b820c8d5f2a8d"
     },
     {
-      "gmail_id": "1a1c8d0fb22a9cb2",
       "subject": "How Java Default Methods Changed Interface Design",
       "received_at": "2026-11-11T04:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8d0fb22a9cb2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "443d48ea5766edd647d092e0d1991b221d58fc2f470d2e4e3893d4ca0f0787a3"
     },
     {
-      "gmail_id": "1a1c8d0fafbee4b0",
       "subject": "Why Java volatile Doesn’t Make Operations Atomic",
       "received_at": "2026-11-11T04:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8d0fafbee4b0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2a40ee134d1dc70c6ff5ed71326a9ed2e7d99ba107f08d239530b78c6441b8a1"
     },
     {
-      "gmail_id": "1a1c8d0fadfcc3a4",
       "subject": "Your Spring Boot Rate Limiter Works Locally. Then You Deploy Three Instances.",
       "received_at": "2026-11-11T04:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8d0fadfcc3a4",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "865adf290779daa00d3b78fbef695a57c83617ee48ed3985614be092f2566e39"
     },
     {
-      "gmail_id": "1a1c8d0fab1d1749",
       "subject": "Zero-Downtime Database Migrations: How to Change a Production Database Without Breaking Your…",
       "received_at": "2026-11-11T04:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8d0fab1d1749",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d544aa6ead65d6ecaf879ac44854c4dadf7f2cf6952db839452f521cd657b808"
     },
     {
-      "gmail_id": "1a1c8cc67c00b073",
       "subject": "Java Records and Shallow Immutability: The Hidden Mutability That Can Break Your Production Code",
       "received_at": "2026-11-11T04:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8cc67c00b073",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "fa33184ae9de752825c91cb24088a131d5c41127b0dbe2a2beb8c33fd1d95d54"
     },
     {
-      "gmail_id": "1a1c8cc65192bebd",
       "subject": "Spring Boot Configuration and Property Precedence: What Actually Happens When Multiple Values Exist?",
       "received_at": "2026-11-11T04:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8cc65192bebd",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1e228067f6b4017438b4bbc8d63d1e43c4e8a6c2f20b6e70accfadd83cfaa29e"
     },
     {
-      "gmail_id": "1a1c8c406e058f46",
       "subject": "Jackson Serialization and API Compatibility: The JSON Changes That Break Production Systems",
       "received_at": "2026-11-11T04:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8c406e058f46",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "136b574b5d783f07b52fccb14913685116877efee1ae266fdbf67f97ffebe6e5"
     },
     {
-      "gmail_id": "1a1c8c371065c0c0",
       "subject": "Spring Boot Testing and Context Caching: Why Your Tests Are Slow, Flaky, and Sometimes Surprisingly…",
       "received_at": "2026-11-11T04:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8c371065c0c0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "008b9826f160478003bdf511c5475a2cf3a5b9aa2159fb308e28181b1f9a4582"
     },
     {
-      "gmail_id": "1a1c8c35067ce797",
       "subject": "Transaction-Bound Spring Events: What Actually Happens When a Transaction Commits or Rolls Back?",
       "received_at": "2026-11-11T04:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c8c35067ce797",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4614bb8ad6aa8c9aa55951aab104e18672b63a3dc7e302210ddd624c8c20491c"
     },
     {
-      "gmail_id": "1a1c5cb5f33755e0",
       "subject": "The Complete SQL Masterclass for Software Engineers",
       "received_at": "2026-11-10T14:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c5cb5f33755e0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "656754cfc3c581dafc9cca02ee93cc46bcec950a03f5dc0ac381ed7bd6904823"
     },
     {
-      "gmail_id": "1a1c5cb5b878bab0",
       "subject": "REST, HTTP, APIs, and Databases Explained: How a Backend Request Actually Works",
       "received_at": "2026-11-10T14:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c5cb5b878bab0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c9c2ea1d8311c1d6d9d6350dd834a647f7a29af405f8340ac11d8789ce08634e"
     },
     {
-      "gmail_id": "1a1c5cb5aa5d558d",
       "subject": "How to Crack SDE-1 Interviews in the AI Era: DSA, Databases, System Design, Caching, and Practical…",
       "received_at": "2026-11-10T14:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c5cb5aa5d558d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "065d2b8537ee82fb36f3269ce910f8783ac623c9b799c551a62da8719990d587"
     },
     {
-      "gmail_id": "1a1c5c6cc04f394f",
       "subject": "Java Collections Framework Masterclass: From Fundamentals to Senior-Level Interviews",
       "received_at": "2026-11-10T14:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c5c6cc04f394f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "883c41928a282326f0442ecea6e3a59047eaddf9c0051bc679f329aa2a89b327"
     },
     {
-      "gmail_id": "1a1c5c6ca901ce59",
       "subject": "The Complete Software Engineer Roadmap: 230+ Topics from Core Java to System Design, Kubernetes…",
       "received_at": "2026-11-10T14:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c5c6ca901ce59",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5d203360ae36d0e3742e06e6952a8ef4f81276f7a00c97b50c9f50f7dce15e63"
     },
     {
-      "gmail_id": "1a1c5c2d9a079dd9",
       "subject": "When Redis Restarts, Your Database Can Go Down: Understanding Cache Stampedes, Thundering Herds…",
       "received_at": "2026-11-10T14:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1c5c2d9a079dd9",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5ba114c633c778157cf1fc0d7f6cfb16ef896126cbf66cd35a630c39cd11555f"
     },
     {
-      "gmail_id": "1a1bed2192d94961",
       "subject": "The 15 System Design Concepts Every Software Engineer Must Know Before Interviews",
       "received_at": "2026-11-09T05:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bed2192d94961",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "9c14972dfbb965c36e81d704164f01defc44904dede9e0c46f81c7df1bc2d639"
     },
     {
-      "gmail_id": "1a1bed21569795bb",
       "subject": "Part 2: Top 30 High-Level System Design Interview Questions and Answers",
       "received_at": "2026-11-09T05:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bed21569795bb",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "53277c49ecacd5fe0f557256abb6b2f16698bc1186f3783cde065ed29266b84d"
     },
     {
-      "gmail_id": "1a1becd824ab8e65",
       "subject": "Top 25 Advanced LLD Interview Follow-Up Questions: Concurrency, Extensibility, and Edge Cases",
       "received_at": "2026-11-09T05:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1becd824ab8e65",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "917854c0157eb18e39d63e9dd783c6e74f7bef1e4d9f42a01dabd8ef75a1cc12"
     },
     {
-      "gmail_id": "1a1bec9d1d309033",
       "subject": "Top 20 Java Machine-Coding Interview Problems: Implement, Test, and Extend",
       "received_at": "2026-11-09T05:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bec9d1d309033",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c82e71738eeb46df2b0810d23c0a5cc23542d76620e2cd9c102f1940df0a7141"
     },
     {
-      "gmail_id": "1a1bec9ce1b719a8",
       "subject": "Top 30 Low-Level Design Interview Questions and Answers for Java Developers",
       "received_at": "2026-11-09T05:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bec9ce1b719a8",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d94a5353014cc828a91ef06110d5a74b2c9b7ee30f221c68b867f3bffb01fe4f"
     },
     {
-      "gmail_id": "1a1bec45c45b17bf",
       "subject": "The 15 OOP, SOLID, and Design Pattern Concepts You Must Know for LLD Interviews",
       "received_at": "2026-11-09T05:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bec45c45b17bf",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "014261da56338257551cb58beb06a6c249e9a99f0edcea21091e9df3787bcb18"
     },
     {
-      "gmail_id": "1a1beb20c5ed673f",
       "subject": "The Complete Java & Spring Boot Interview Roadmap: Everything You Need to Master for 3–5 Years of…",
       "received_at": "2026-11-09T05:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1beb20c5ed673f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "20f3950c8693767082d9db18d65e5729d977e1f267d5ab8a7d5143c9b5d8a719"
     },
     {
-      "gmail_id": "1a1beb2099d79206",
       "subject": "How to Debug High CPU Usage in a Java Application: A Complete Troubleshooting Guide",
       "received_at": "2026-11-09T05:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1beb2099d79206",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ff065bf592ccbfe9c72b30b618b91aec62716fa992700b78a877133374ad9299"
     },
     {
-      "gmail_id": "1a1beae52565e08e",
       "subject": "Top 30 Spring Security Interview Questions and Answers for Experienced Java Developers",
       "received_at": "2026-11-09T05:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1beae52565e08e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6278d2006e2eb860141deeb83d25c1139df1fd6a49ba73a0b3dacc23025f8c3b"
     },
     {
-      "gmail_id": "1a1bea8e377c513f",
       "subject": "Top 40 Microservices Interview Questions and Answers for Experienced Developers",
       "received_at": "2026-11-09T04:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bea8e377c513f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a6a867d6759f49677bf20a4dc62246793bc28a3e4d1d357036a45e283705ba1e"
     },
     {
-      "gmail_id": "1a1bea4513b1c904",
       "subject": "Top 50 Core Java Interview Questions and Answers for 3–5 Years of Experience",
       "received_at": "2026-11-09T04:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bea4513b1c904",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "fdcb3e04ade9d03d5b605d37a84f0c09fa092518cbbf27fcc176e4ed25863c6e"
     },
     {
-      "gmail_id": "1a1bea4507f096c7",
       "subject": "Top 40 Hibernate and JPA Interview Questions and Answers for Experienced Developers (2026)",
       "received_at": "2026-11-09T04:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bea4507f096c7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "674fcaa780b4acf1eb6d4d0f1792fd88d863aa3fc1c8d5cfd8e223b393eb979a"
     },
     {
-      "gmail_id": "1a1bea44fe9cc62a",
       "subject": "Top 50 Spring Boot Interview Questions and Answers for Experienced Developers",
       "received_at": "2026-11-09T04:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bea44fe9cc62a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ecb920f67ea14c27c0730d85e3ddad9180626e808b6c31ecf83e74fdceb2969d"
     },
     {
-      "gmail_id": "1a1bea44b09f9cbd",
       "subject": "Top 30 Spring Boot REST API Interview Questions and Answers for Experienced Developers",
       "received_at": "2026-11-09T04:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bea44b09f9cbd",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4a7debf657e0aaa5952d6aa2f63c0f0d8c9a02c20b334cbe3afb3c3457a20ce9"
     },
     {
-      "gmail_id": "1a1be9fbcea0ae21",
       "subject": "Top 25 Advanced System Design Interview Scenarios: Bottlenecks, Failures, and Trade-Offs",
       "received_at": "2026-11-09T04:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1be9fbcea0ae21",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "22ddb23394e7ed43d39c57edca062d14d0655ec6b86593654d5b60ddb7580c05"
     },
     {
-      "gmail_id": "1a1be9fbc06c9b0e",
       "subject": "Part 1: System Design Fundamentals — A Complete Beginner’s Guide to Building Scalable Systems",
       "received_at": "2026-11-09T04:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1be9fbc06c9b0e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0712c788bafdb24b736842ff18701a65c54785b95aa89f1e508c3630ad28f3c4"
     },
     {
-      "gmail_id": "1a1bb913dc004f5f",
       "subject": "Java String Interview Masterclass: 50 Questions Every Java Backend Engineer With 3–5 Years of…",
       "received_at": "2026-11-08T14:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bb913dc004f5f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "36c15b0cc9a2308d0606becc24cb097a2e9f993a3b6e4f4b62ffd6e8c79d7c94"
     },
     {
-      "gmail_id": "1a1bb8c5fa01a795",
       "subject": "The 90-Day Backend Engineering Portfolio Roadmap: From Learning Java and Spring Boot to Building…",
       "received_at": "2026-11-08T14:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1bb8c5fa01a795",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6c980a995bc9176fa94449d19db36e4b1efc836eba5caf6b8755e59409b0d74f"
     },
     {
-      "gmail_id": "1a1b6caba50bb78b",
       "subject": "The Complete Java Masterclass: From Core Java Fundamentals to JVM Internals and Advanced…",
       "received_at": "2026-11-07T16:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b6caba50bb78b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cd29c34bbe1ae46968e356a3dfe2e28b022272a57aa490eabe1164fb910d9a9c"
     },
     {
-      "gmail_id": "1a1b6cab6bd38f29",
       "subject": "It Worked in SIT and Pre-Prod. Then Production Failed Because the API Wasn’t Whitelisted.",
       "received_at": "2026-11-07T16:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b6cab6bd38f29",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3b1653e50615a50d2048a241ad9cf79793fd70805ae533e4871788a66592cc57"
     },
     {
-      "gmail_id": "1a1b6c626c19735d",
       "subject": "How to Debug 10 Microservices Without Running Anything Locally: A Practical Guide to Logs, Request…",
       "received_at": "2026-11-07T16:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b6c626c19735d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "b857aa16ff4cdd3427d68c0fef6a48e39eb179bd20efabc806b2bcad60e887da"
     },
     {
-      "gmail_id": "1a1b6c6262a7ffe7",
       "subject": "From SIT to Production: The Complete Deployment Checklist Every Software Engineer Should Know",
       "received_at": "2026-11-07T16:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b6c6262a7ffe7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c8376003edfbe6f8d4647b1125d5973ff152dbeb2b3812440e390f330e90158a"
     },
     {
-      "gmail_id": "1a1b13b17f914cad",
       "subject": "Statement vs PreparedStatement: The Hidden SQL Injection Problem Every Java Developer Should…",
       "received_at": "2026-11-06T14:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b13b17f914cad",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "216641e6d955b8d948a9852b435e1ae94a3d35735100a8b1ce8527341b39267d"
     },
     {
-      "gmail_id": "1a1b13b147192461",
       "subject": "JDBC Explained: What Actually Happens Behind the Scenes When Java Connects to a Database?",
       "received_at": "2026-11-06T14:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b13b147192461",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "89f0c6befa8f8c0155f1a31b05270607524d103c22ea019afb129b0c91f5d8d6"
     },
     {
-      "gmail_id": "1a1b13b14243209e",
       "subject": "Your Spring Boot Application Is Slow? The Real Problem Might Be Your Database Connection Pool",
       "received_at": "2026-11-06T14:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b13b14243209e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "fbc5b908cc065d641021bad2c452cc2fff4e96fad606a5cda0b1a39050ad3fab"
     },
     {
-      "gmail_id": "1a1b136892ce2003",
       "subject": "I Thought I Knew Java Until I Understood JVM, Memory Management, and Garbage Collection",
       "received_at": "2026-11-06T14:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b136892ce2003",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "dfd318b060b1ecd34a0f3ef392379a12cff65cf9e5e3eea95a8ae95538a063ed"
     },
     {
-      "gmail_id": "1a1b1368212441df",
       "subject": "Most Java Developers Use These 15 Java Features Every Day Without Knowing How They Actually Work",
       "received_at": "2026-11-06T14:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b1368212441df",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "236f6cace123096ba2b4aa4c0bc76a4137a91cc317fa03ea8eb4a6b74f9bfcc2"
     },
     {
-      "gmail_id": "1a1b136813a6077c",
       "subject": "Most Java Developers Use These 15 Java Features Every Day Without Knowing How They Actually Work",
       "received_at": "2026-11-06T14:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1b136813a6077c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "60c2e2136c66281ddde06a6531b8368c63d4ff377d03a5ee817624589e2c07a6"
     },
     {
-      "gmail_id": "1a1acf0706b44190",
       "subject": "I Gave 15+ System Design Interviews in 2026: Almost Every Question Came Down to These 10 Patterns",
       "received_at": "2026-11-05T18:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1acf0706b44190",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "9b88f2cc64a4f3f3c1cc21a7540fa2bf0a81aef970078e52d1be2241e156eb6f"
     },
     {
-      "gmail_id": "1a1acd063b5eb75d",
       "subject": "Your Database Migration Works. Your Rolling Deployment Doesn’t.",
       "received_at": "2026-11-05T17:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1acd063b5eb75d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "019abf2fa292faea7585c0616ac10814c2691a560ced4b91747cc4cf8671d759"
     },
     {
-      "gmail_id": "1a1a7b880a1296fd",
       "subject": "CompletableFuture in Java: Async Pipelines, Thread Pools, Exception Handling, and Production…",
       "received_at": "2026-11-04T18:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a7b880a1296fd",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "914fd6b5a94bcb5daa5252aa27cfee69d5d14d9963bc3f1c58d4530cb1cf8252"
     },
     {
-      "gmail_id": "1a1a7b80c591e9b5",
       "subject": "Java Collectors Deep Dive: groupingBy, partitioningBy, toMap, and Custom Collectors",
       "received_at": "2026-11-04T18:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a7b80c591e9b5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "da18d15f9a26b2d5f56eed7604b1b75002f77e943964d72f043034754efc9d11"
     },
     {
-      "gmail_id": "1a1a7b335888fa0e",
       "subject": "Java Lambda Expressions and Method References: How They Work, When to Use Them, and Common Mistakes",
       "received_at": "2026-11-04T17:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a7b335888fa0e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "36a6bb2a2f2b0626be36f3bfce21ee1aa1c270bfbac85a6aa6dc849a8f7f4289"
     },
     {
-      "gmail_id": "1a1a7b33422057c5",
       "subject": "Java Virtual Threads in Production: How They Work, When to Use Them, and the Mistakes That Break…",
       "received_at": "2026-11-04T17:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a7b33422057c5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a6734b2c910b5d4bb568e78d56669d32351f4747b4632ffc9715467e683cd090"
     },
     {
-      "gmail_id": "1a1a7aea0f0bc32e",
       "subject": "Master Java: The Complete Roadmap to Modern Java, JVM Internals, Concurrency, and Production…",
       "received_at": "2026-11-04T17:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a7aea0f0bc32e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7b7dc1b48554f730015f038b9c771ea9670448bda0f1c3b50caef83cd64c747d"
     },
     {
-      "gmail_id": "1a1a79d1ef1937a5",
       "subject": "Indexes Are Data Structures With Write and Storage Costs",
       "received_at": "2026-11-04T17:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a79d1ef1937a5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1a255f4af422c8eefc037e862a536f9347e058ec3485ddd116eb29167ee1a545"
     },
     {
-      "gmail_id": "1a1a79c611c3765b",
       "subject": "Normalization vs. Denormalization Under Real Production Workloads",
       "received_at": "2026-11-04T17:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a79c611c3765b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "899b1bfb78609cf01d77cfcd8a55d24a889c780875a6b7e034e4cbb2de456333"
     },
     {
-      "gmail_id": "1a1a797bc090e55b",
       "subject": "Schema Evolution for JSON, Protobuf, and Event Contracts: How to Change Schemas Without Breaking…",
       "received_at": "2026-11-04T17:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a797bc090e55b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "86b85810b15b9b70d9e3429973e7d56619ee1054a06fe06b9bb46fe15b1f025a"
     },
     {
-      "gmail_id": "1a1a7932a6bf5a28",
       "subject": "Reliable Webhooks: Retries, Idempotency, and Failure Recovery",
       "received_at": "2026-11-04T17:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a7932a6bf5a28",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "da7df31c5653de3fffe647689fb6f9d817bf839a8d53077e6e97a8e0715fe2e5"
     },
     {
-      "gmail_id": "1a1a79327fdf8d1d",
       "subject": "Schema Evolution for JSON, Protobuf, and Event Contracts: How to Change Schemas Without Breaking…",
       "received_at": "2026-11-04T17:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a79327fdf8d1d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6864e69c6da2d286d9e759bef11c2d27343784435d6545b312c91593a03850f3"
     },
     {
-      "gmail_id": "1a1a78e969112c5f",
       "subject": "Multi-Tenant API Design: Fairness, Isolation, and Noisy Neighbors",
       "received_at": "2026-11-04T17:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a78e969112c5f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "9abfdbe59eaede5ea79989e5f28928071d84f65ce6aa0066b5e2fade74c1ec59"
     },
     {
-      "gmail_id": "1a1a78e960626b7d",
       "subject": "Webhooks That Survive Duplicate Delivery, Delays, and Receiver Downtime",
       "received_at": "2026-11-04T17:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a78e960626b7d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f2c455075d4b6c734d432958b7e048e360bbee2bab1fff869810e6cc23367de0"
     },
     {
-      "gmail_id": "1a1a78e95473d252",
       "subject": "The Backend-for-Frontend Pattern: When Mobile and Web Need Different APIs",
       "received_at": "2026-11-04T17:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a78e95473d252",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5095f249d8eda3d13283bb10337218ca5cca66d37fa13fb463fad758782b318e"
     },
     {
-      "gmail_id": "1a1a78a02f016c35",
       "subject": "API Versioning Without Breaking Old Clients",
       "received_at": "2026-11-04T17:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a78a02f016c35",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "dfe9238826732b1b6846b74c98b274eeed9b001c22ddaf9ed32796b17bf4789c"
     },
     {
-      "gmail_id": "1a1a78a02280c105",
       "subject": "Bulk APIs: When Batching Improves Performance and When It Amplifies Failure",
       "received_at": "2026-11-04T17:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a78a02280c105",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7161846bb3296cad5cd791b2c4de7f6f878da35e4a0bdabdb168524d27b411f5"
     },
     {
-      "gmail_id": "1a1a78a0133c6f13",
       "subject": "Multi-Tenant API Design: Fairness, Isolation, and Noisy Neighbors",
       "received_at": "2026-11-04T17:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a78a0133c6f13",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8556da802b5b60f8b92b08fee943bc827c7bbe918fc46b1996e77e01c0fb921b"
     },
     {
-      "gmail_id": "1a1a785749edf292",
       "subject": "Idempotency Keys: Design the Full Lifecycle, Not Just a Header",
       "received_at": "2026-11-04T17:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a785749edf292",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "50c7e2e5d944393b7d5a5c7fe702f076949c2641273321add6724f5e30c3dfaf"
     },
     {
-      "gmail_id": "1a1a263a7f822e2f",
       "subject": "Your Migration Passed Every Test. Then the Database Started Taking 100× Longer.",
       "received_at": "2026-11-03T17:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a263a7f822e2f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0e5856b62d512805d8a36e270d0102eb3156f275405ef73bc3c2ffffe08c831e"
     },
     {
-      "gmail_id": "1a1a25f13868b9fa",
       "subject": "The Dashboard Was Slow, the Database Was Busy, and Every Fix Made Something Else Worse",
       "received_at": "2026-11-03T17:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a25f13868b9fa",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "515e1f7f1a8fd7d001c87477c4ef19e1dc3df8116a8ec66ba105be143ad2ea78"
     },
     {
-      "gmail_id": "1a1a25f1117e2dfd",
       "subject": "Your AI Agent Got Smarter. Are Half Your Instructions Now Technical Debt?",
       "received_at": "2026-11-03T17:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a25f1117e2dfd",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cb50f0b53f093d56f4b08d4e84dc8163fb904bd1639b7c421454a73812497437"
     },
     {
-      "gmail_id": "1a1a25b1c0af4747",
       "subject": "Your API Works. So Why Does Every New Feature Make It Harder to Maintain?",
       "received_at": "2026-11-03T17:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1a25b1c0af4747",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3387990b5ec6587ee7a4a270f93ff2f76f8d7d057b00417372d855188c286f1f"
     },
     {
-      "gmail_id": "1a19d1d3f10ead9a",
       "subject": "Java Optional: Stop Writing Error-Prone Null Checks",
       "received_at": "2026-11-02T16:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19d1d3f10ead9a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "795ca2feb2ba880ed55128bba0348ca1389dae068bc42a0db384e8ee14046500"
     },
     {
-      "gmail_id": "1a19d1d3d8b019c8",
       "subject": "Java Stream API: The Complete Guide to Processing Collections",
       "received_at": "2026-11-02T16:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19d1d3d8b019c8",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ef45fa418a8e148e10146b1f29f1da37ddaf43733d1d20108193080921cfd8d3"
     },
     {
-      "gmail_id": "1a19d0aef0691b80",
       "subject": "We Added One Server and Our Cache Started Falling Apart",
       "received_at": "2026-11-02T16:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19d0aef0691b80",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "68bae5d6cb3287deab2e0d6beef2b327090732f907ca2a0d1819c6890d6c4e14"
     },
     {
-      "gmail_id": "1a19d065b2740112",
       "subject": "Your Database Is Healthy. Your Users Still See Yesterday’s Data.",
       "received_at": "2026-11-02T16:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19d065b2740112",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "03bd4d299bc30cc71b40f50b4973356b25963d020b222de58d8ca63cc4df3c33"
     },
     {
-      "gmail_id": "1a19d01c75a79034",
       "subject": "Millions of Users Clicked “Pay.” Your Database Says the Order Never Happened.",
       "received_at": "2026-11-02T16:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19d01c75a79034",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3cf91a19882cbeea025f0896e54c109ddec946549cc3e91f37b57cc274f2bf83"
     },
     {
-      "gmail_id": "1a19d01c602435b2",
       "subject": "Java Thread Pools in Production: Queue Capacity, Rejection Policies, Thread Starvation, and the…",
       "received_at": "2026-11-02T16:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19d01c602435b2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "51bd7fc2517b10c49dc2f8ef8979bd56ed8cf6e09e3358ee07625a196c42ee12"
     },
     {
-      "gmail_id": "1a19cfd8e5addd05",
       "subject": "Java vs Kotlin in 2027: Which Language Should You Choose for Backend and Android Development?",
       "received_at": "2026-11-02T16:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19cfd8e5addd05",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6b89660d900f6dadff8e240f686031018a3e7a84317147b8cb930ee077cc88e9"
     },
     {
-      "gmail_id": "1a19cfd5bc04f324",
       "subject": "AI-Generated Code in Production: How to Review, Test, Debug, and Secure It",
       "received_at": "2026-11-02T16:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19cfd5bc04f324",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f2a61d2236b43394396d43b97d5b0915ef1409ec3b7f7f0e21b37288f78e8854"
     },
     {
-      "gmail_id": "1a19cf40f163a9ce",
       "subject": "System Design Isn’t About Adding Redis, Kafka, and Microservices.",
       "received_at": "2026-11-02T15:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19cf40f163a9ce",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c501534c3ead5c96d29147b32c545280401ecbb5a9b256ff5b0eb3f1a2fd8414"
     },
     {
-      "gmail_id": "1a19cf40d57bc107",
       "subject": "Java Concurrency in Low-Level Design Interviews: The Bugs You Need to Know Before Choosing a Lock",
       "received_at": "2026-11-02T15:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19cf40d57bc107",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8173b99e7a28aea4d494c651efdcc37d9bd0a354cb728aaa4be5af87652fc650"
     },
     {
-      "gmail_id": "1a19cf40a17e8f86",
       "subject": "How to Design an Elevator System: A Complete Low-Level Design Interview Guide",
       "received_at": "2026-11-02T15:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19cf40a17e8f86",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "097e43c430069394a8ee8f101989edcd40e300924bf3b2f588e3e90fbec42e2a"
     },
     {
-      "gmail_id": "1a19cef7b635ef5c",
       "subject": "Why Adding More Backend Servers Can Make Your Database Slower",
       "received_at": "2026-11-02T15:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19cef7b635ef5c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0b7d2f7fbd45f32f780d10e058a26c46b862163bf115111d4ba65a631bc8ef14"
     },
     {
-      "gmail_id": "1a19cef77444911a",
       "subject": "Stop Drawing System Design Diagrams. Start Writing Your Architecture First.",
       "received_at": "2026-11-02T15:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19cef77444911a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c729c39f2e813dc1b040ebc261410eeaa7428f8f84625203ba58a2af21574f9d"
     },
     {
-      "gmail_id": "1a19ceae4176a734",
       "subject": "Your API Is Slow, but the Bug Might Be 7 Layers Below",
       "received_at": "2026-11-02T15:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19ceae4176a734",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f2d51181bc6f3520dae68218a672d8ee96ad604ac2d99845df60fde0672461aa"
     },
     {
-      "gmail_id": "1a19ceadef2ab997",
       "subject": "Sharding vs Partitioning vs Replication: How Databases Scale in Production",
       "received_at": "2026-11-02T15:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19ceadef2ab997",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4e4503367cf983cb87b3748a9b6ac0dee1de70f80a08e84d47edbdb3e4eec4a3"
     },
     {
-      "gmail_id": "1a19c819b9746688",
       "subject": "Java Lambda Expressions: From Anonymous Classes to Production-Grade Backend Code",
       "received_at": "2026-11-02T13:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19c819b9746688",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ab6f384ad7773e2398967d8a4ad602af722b4ec9453290fc0ec746f0c9fe3371"
     },
     {
-      "gmail_id": "1a19c819a317124c",
       "subject": "A Frontend Requests Page 8,000 From Your API. What Are Your Next Steps?",
       "received_at": "2026-11-02T13:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19c819a317124c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "664a1a85044873cccba82375242b099f5cbeccc8a020a7e5c12dbd9f61ba1578"
     },
     {
-      "gmail_id": "1a19a8606437d16c",
       "subject": "Replication Lag: Why a Successful Write Can Still Look Missing",
       "received_at": "2026-11-02T04:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19a8606437d16c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1dc37993779d457a9ec7dfcabd61f2bc216f91c5b736e7eeea79d1a17031000f"
     },
     {
-      "gmail_id": "1a196ad481752dbf",
       "subject": "P50, P95, P99, and Tail Latency: What Your Average Hides",
       "received_at": "2026-11-01T10:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a196ad481752dbf",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5edb50da7bacb7227abf4bfe815348f5b4385eecc0c6bcfeb89c349b68feed6e"
     },
     {
-      "gmail_id": "1a196a919d7e0520",
       "subject": "Latency vs Throughput vs Concurrency: Why They Are Not the Same Thing",
       "received_at": "2026-11-01T10:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a196a919d7e0520",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "94313659f1ac557dbd0829675fcbc96bc8e033a4ce0f35ef1be165aefc11db28"
     },
     {
-      "gmail_id": "1a196a42541010d2",
       "subject": "The Retry Storm That Takes Down a Healthy Service",
       "received_at": "2026-11-01T10:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a196a42541010d2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "be266ab353e54a9784630a94207d88e26ab5a7d901c406ad156acdf6c5a308ab"
     },
     {
-      "gmail_id": "1a1967af032e76dc",
       "subject": "How to Review a System Design Like a Staff Engineer: A Practical Architecture Review Checklist",
       "received_at": "2026-11-01T09:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1967af032e76dc",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4f3b30c576d7aa611d29f36948316fe27263a7cf5eedd65e8b4a6476e3b586fb"
     },
     {
-      "gmail_id": "1a1967aef7ac682f",
       "subject": "Architecture Decision Records: How to Document the Why, Not Just the What",
       "received_at": "2026-11-01T09:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1967aef7ac682f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "79210edcbfa29036d55c8855ad605f948bb885d38f8ec8775c9d80d0c4b70e24"
     },
     {
-      "gmail_id": "1a196765e83cde6b",
       "subject": "Capacity Planning: Find the Bottleneck Before Users Do",
       "received_at": "2026-11-01T09:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a196765e83cde6b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "392ef7d56019e140b0a6f62aacca622332c0ff4a63f9dcd48bce1c8b13b2e46b"
     },
     {
-      "gmail_id": "1a196765db0b6266",
       "subject": "How to Choose a Simple Architecture Without Painting Yourself Into a Corner",
       "received_at": "2026-11-01T09:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a196765db0b6266",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "faaf64c65c8308e4eff132f072df497c952a10e15e874dd6249b4ba341cd71a9"
     },
     {
-      "gmail_id": "1a196765adc620a3",
       "subject": "The Difference Between Scaling Up, Scaling Out, and Scaling by Partitioning",
       "received_at": "2026-11-01T09:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a196765adc620a3",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3cf9b7d1fc10cdd0dfda6824aac8ae98af0a48d827cd3819872e6a9b23edcecb"
     },
     {
-      "gmail_id": "1a196721a1c325a7",
       "subject": "How to Estimate Traffic, Storage, Bandwidth, and Cost Before Choosing Components",
       "received_at": "2026-11-01T09:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a196721a1c325a7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5c89eb175371ddefbb858c989c9ffa670a23254cda6892e703d27a8dc85ff3fa"
     },
     {
-      "gmail_id": "1a1965f7d9e108b5",
       "subject": "Load Balancer Algorithms: Round Robin, Least Connections, and Consistent Hashing",
       "received_at": "2026-11-01T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1965f7d9e108b5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a89523e32aa514074580bc0e7b42d19a9baf94a885d8c32c8099d4816ad58faf"
     },
     {
-      "gmail_id": "1a1965f79e3ebe38",
       "subject": "CDN Cache Keys, Purging, and Stale Content: The Edge Cases Behind Fast Websites",
       "received_at": "2026-11-01T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1965f79e3ebe38",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4264c7c9f65c2e9d2ed00cb07343c4e0b602e5e4b756e877c740f4b3b035686a"
     },
     {
-      "gmail_id": "1a1965f76d7ffa81",
       "subject": "Reverse Proxy vs API Gateway vs Service Mesh: Where Each Belongs",
       "received_at": "2026-11-01T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1965f76d7ffa81",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "68bf45cb2fe75719836384620436a4699026f4f5c8284725f42eeda0e5fe70ec"
     },
     {
-      "gmail_id": "1a1965ae412247c3",
       "subject": "DNS Caching and Failover: Why a Traffic Switch May Not Be Immediate",
       "received_at": "2026-11-01T09:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1965ae412247c3",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cc82d54e331e1fc8c161a3d87051bbf783d4fb49bf8b4283650a4d897ee7c606"
     },
     {
-      "gmail_id": "1a1962d1f50d9bf1",
       "subject": "HTTP/2, HTTP/3, and QUIC: When Protocol Choice Changes Tail Latency",
       "received_at": "2026-11-01T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1962d1f50d9bf1",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "faf266dea61c5d36b370eedd2d91b17fd46d6a73edf32e1749472c74d9e99f34"
     },
     {
-      "gmail_id": "1a1962d1b25d1ecb",
       "subject": "WebSockets at Scale: Connection State, Fan-Out, and Reconnect Storms",
       "received_at": "2026-11-01T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1962d1b25d1ecb",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cf89f1705fcbc6bcd91060fa0ecf35216b85af0a5438e21c60c530d3419d2fd8"
     },
     {
-      "gmail_id": "1a195fac5a0b5c13",
       "subject": "The Retry Storm That Takes Down a Healthy Service",
       "received_at": "2026-11-01T07:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a195fac5a0b5c13",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0d4db679902ffec20536cef5547fef687ea6fde09bf8e2850b323284294a6287"
     },
     {
-      "gmail_id": "1a195fac4a02ec67",
       "subject": "REST vs GraphQL vs gRPC: Choose by Workload, Not by Trend",
       "received_at": "2026-11-01T07:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a195fac4a02ec67",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "73566e41638b516d6e42a1142676e22438c801af91a0e9d7fbb4ba32cb892175"
     },
     {
-      "gmail_id": "1a195fac28e165d0",
       "subject": "Pagination Under Concurrent Writes: Why Offset Pagination Skips or Repeats Rows",
       "received_at": "2026-11-01T07:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a195fac28e165d0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "27b79cd447e327e5a36061d38fa7f229d7c0ca83d04e8cfe5daee064ab7c94b1"
     },
     {
-      "gmail_id": "1a195fac074655a9",
       "subject": "Global Traffic Routing: Latency, Residency, and Regional Failover",
       "received_at": "2026-11-01T07:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a195fac074655a9",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c23f99bfdf82c09c4a341c4a25a9be193bb9f7eb1abddf545ced13e752a4c6ec"
     },
     {
-      "gmail_id": "1a195f6300d7c947",
       "subject": "Rate Limiting at the Edge vs Inside the Service: A Production Guide",
       "received_at": "2026-11-01T07:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a195f6300d7c947",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "628e491a60e95b605838b27b98fba983f57cb755151767ce4a3a7c4fec04134c"
     },
     {
-      "gmail_id": "1a19190181e6e85a",
       "subject": "Building a Production-Ready Java Spring Boot Backend: From REST APIs to AWS Deployment",
       "received_at": "2026-10-31T10:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a19190181e6e85a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1c20bdf11966542bb0f2cbe0dc9697735ffea7787eb025e457605472e9364255"
     },
     {
-      "gmail_id": "1a18ac496d51f61b",
       "subject": "Why Does CORS Exist If the Backend Already Checks Authentication?",
       "received_at": "2026-10-30T03:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a18ac496d51f61b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "19a56fbc4d16e0e0a21fe5b105d8a9dd37888f3b68ebb331c438aefe854078be"
     },
     {
-      "gmail_id": "1a18ac0bd4390417",
       "subject": "Payments System Design: 11 Concepts Every Backend Engineer Must Understand Before a Fintech…",
       "received_at": "2026-10-30T03:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a18ac0bd4390417",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d0b6c37e4a34bacc680f2856a6aad5bdc844a118a0fce7a2da1e1de574e5b175"
     },
     {
-      "gmail_id": "1a1864798b66ee62",
       "subject": "HikariCP Connection Pool Explained: 12 Mistakes That Can Take Down Your Spring Boot API",
       "received_at": "2026-10-29T06:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1864798b66ee62",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7ce31a25584396d398b42dfa743e5651e7d0bcc381022a77b6e6d7b56b383d7a"
     },
     {
-      "gmail_id": "1a1862343e5ea915",
       "subject": "Build a Thread-Safe Queue in Java: Producer–Consumer, File Locks, Atomic Operations, and Crash…",
       "received_at": "2026-10-29T05:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1862343e5ea915",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "e0416ee517ef1622ab3d57c0cd9a601cd725e0992fc6c6f5dbc7e6ffb9ada360"
     },
     {
-      "gmail_id": "1a18619d25666bfd",
       "subject": "Design a Top-K Trending System: How Would You Find the 100 Most Popular Posts Across Millions of…",
       "received_at": "2026-10-29T05:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a18619d25666bfd",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5900f249e13c06182eb6a80f0ad5c33311d862d9f7cb53a24a615f9a437c94cd"
     },
     {
-      "gmail_id": "1a185f9c7cfa46dc",
       "subject": "Spring Boot Transactions Across Microservices: Why @Transactional Cannot Save You",
       "received_at": "2026-10-29T04:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a185f9c7cfa46dc",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ec61bda27950a4e9179dd0a1e707b7ff6259b418649764063e24d21429a00d18"
     },
     {
-      "gmail_id": "1a18599eae22b3a4",
       "subject": "Database Read Replicas Are Lying to Your Application: How to Handle Stale Reads",
       "received_at": "2026-10-29T03:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a18599eae22b3a4",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2fd7d511b7d041af399ce536b2735f64b87e6f6fb21a1f6224d432fa80340c30"
     },
     {
-      "gmail_id": "1a17b886c440c730",
       "subject": "Graceful Shutdown in Spring Boot: Why Deployments Drop Requests — and How to Stop It",
       "received_at": "2026-10-27T04:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a17b886c440c730",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "965baa00c1b4f950bf790a1bcabbf8bceb573c0fc2b01a8b89b9cf0714100581"
     },
     {
-      "gmail_id": "1a17b5180847c53a",
       "subject": "Kubernetes Commands Explained: The Complete kubectl Cheat Sheet for Developers",
       "received_at": "2026-10-27T03:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a17b5180847c53a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d9fd175c866d9b255c5f6cc850f16ac033bd83d435644e9cfcd08d2d13a3d42f"
     },
     {
-      "gmail_id": "1a171203c765e5fd",
       "subject": "Why Is Redis Single-Threaded? Understanding Concurrency, Atomicity, I/O Threads, and Scaling",
       "received_at": "2026-10-25T03:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a171203c765e5fd",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1a6f899f3a8a676fc348eb6c764113943a4ba75c064b55c2e50ca1aada79ab9b"
     },
     {
-      "gmail_id": "1a1711c599a6d8b6",
       "subject": "How to Prevent a Banned User from Signing Up Again With a Different Email",
       "received_at": "2026-10-25T03:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1711c599a6d8b6",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7a2c1144211830d3cc8ec5bbfefeb78bf1f566dea3fac5574897c5f23bf5eb07"
     },
     {
-      "gmail_id": "1a1711bfeb8fb3a7",
       "subject": "AWS Interview Question: EC2 Is Running, but SSH Is Not Working. How Do You Troubleshoot It?",
       "received_at": "2026-10-25T03:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1711bfeb8fb3a7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ee378cdec0fc4edc898334458d019122811fa3ddfc0e7748093c5ce7c7de3faa"
     },
     {
-      "gmail_id": "1a16958faf13e7c7",
       "subject": "JPA Interview Problems: 10 Queries That Return the Wrong Data or Run Too Slowly",
       "received_at": "2026-10-23T15:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a16958faf13e7c7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ac2489f2fc38d808a5e0aa29b229a9750c4c7f9975c1bd45d696f5e86471b56f"
     },
     {
-      "gmail_id": "1a1694791d1e98a7",
       "subject": "Spring Security Interview Questions: JWT Authentication, Authorization, Filter Chains, and Common…",
       "received_at": "2026-10-23T15:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1694791d1e98a7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "66b261f08706a324b998670016b0ddd41da7b0468c50783d0a22398a87875372"
     },
     {
-      "gmail_id": "1a1694746b239565",
       "subject": "HikariCP Tutorial: Java Connection Pooling Explained from Basics to Spring Boot (Part 1)",
       "received_at": "2026-10-23T15:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1694746b239565",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3377f467aa6349c9d2b891d40f5973c051d1a856df1a27708ce9e3c952e9379f"
     },
     {
-      "gmail_id": "1a1694737eeed0bf",
       "subject": "Spring Boot JDBC Interview Guide: JdbcTemplate, HikariCP, Transactions, and Production Debugging…",
       "received_at": "2026-10-23T15:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1694737eeed0bf",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "e4cbaab92c654c35f1e0d8250efc7613b53989c2141d6f55c49fb75f47b60010"
     },
     {
-      "gmail_id": "1a1694712edef7f9",
       "subject": "Advanced JDBC Tutorial: Transactions, Batch Processing, Connection Pooling, and Performance (Part…",
       "received_at": "2026-10-23T15:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1694712edef7f9",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "55fdd2ad079f5f98c1d0f33ad290bd3eea21f058e4f337a37f8b2fa5a269a190"
     },
     {
-      "gmail_id": "1a16946f9baa32e7",
       "subject": "Spring Boot Interview Coding Questions: 12 Bugs Involving Proxies, Bean Lifecycle, and Dependency…",
       "received_at": "2026-10-23T15:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a16946f9baa32e7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7829fb244b2bf9f2e4c0f40ecdeb04bd6e7dffaa96ae67d829cd5f3e5d888eae"
     },
     {
-      "gmail_id": "1a16946e2806b82b",
       "subject": "Java JDBC Tutorial: From Basics to CRUD Operations — Complete Interview Guide (Part 1)",
       "received_at": "2026-10-23T15:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a16946e2806b82b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f6976cce64696c6dd09909110bcca8b6776e2030a852949954c5b04c4b2219a4"
     },
     {
-      "gmail_id": "1a16946e23731d26",
       "subject": "Java JDBC Interview Questions: 20 Coding Problems on PreparedStatement, Transactions, Batch…",
       "received_at": "2026-10-23T15:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a16946e23731d26",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0ec708fdeb9c4604e8df7d077b8e79eb9e8e6f28437e6ae9e2e443facef86d48"
     },
     {
-      "gmail_id": "1a169421bdd462b1",
       "subject": "Spring Boot 4 Migration Guide: 12 Breaking Changes and Upgrade Mistakes Java Developers Must Know",
       "received_at": "2026-10-23T14:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a169421bdd462b1",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d0ee1cd7aedda6ab3dba1556794253f8ca542e7d9793f2daa58bd6c88d5b454e"
     },
     {
-      "gmail_id": "1a16942199871b51",
       "subject": "Spring Boot Testing Interview Questions: 12 Scenarios That Expose Weak Backend Engineers",
       "received_at": "2026-10-23T14:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a16942199871b51",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a319581f808c519dd4f0ca63a1c6f205a3a2302bd59882d040ac2d8d7aff855d"
     },
     {
-      "gmail_id": "1a1694216ca5d13d",
       "subject": "15 Spring Boot Coding Interview Questions: Predict the Output, Find the Bug, Explain Why",
       "received_at": "2026-10-23T14:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1694216ca5d13d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "89088d62045b11b90928b5ac7684a5d3a25f355d561a56905c0d2711d0f57a68"
     },
     {
-      "gmail_id": "1a1694215f19d701",
       "subject": "10 Spring Boot Bugs That Pass Code Review but Fail in Production",
       "received_at": "2026-10-23T14:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1694215f19d701",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4fc184a57f82c58967cd7f8626fda725ff793d027c172b7079d6bd20ba79956e"
     },
     {
-      "gmail_id": "1a1694215acb4e56",
       "subject": "Spring Security Filter Chain Explained: What Happens Before Your Controller Runs?",
       "received_at": "2026-10-23T14:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1694215acb4e56",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "9c0108595054081aea22dd5cc8092d17195e0a36421553f56ce593a593633e98"
     },
     {
-      "gmail_id": "1a1690b27c204d43",
       "subject": "Mastering HikariCP in Production: Pool Sizing, Connection Leaks, Timeouts, and Debugging (Part 2)",
       "received_at": "2026-10-23T13:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1690b27c204d43",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "9ffdf9108e2e0a48a827ea534d9ebc644a0c8881eb7e323221977384745fbeca"
     },
     {
-      "gmail_id": "1a163a4b704de629",
       "subject": "Spring Boot Auto-Configuration Interview Questions: How It Really Works Under the Hood",
       "received_at": "2026-10-22T12:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a163a4b704de629",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "775790d6b3a8b92edb9aad8ab7476a895f472aad8b887028eb945bf7c19c099e"
     },
     {
-      "gmail_id": "1a16376eebd05270",
       "subject": "Spring JDBC Interview Questions: JdbcTemplate, Transactions, Batch Updates, and Production-Level…",
       "received_at": "2026-10-22T11:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a16376eebd05270",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "43545fef8ee2e574792305f9e1d249e7b51276c8dad11d148492888e9236d0f7"
     },
     {
-      "gmail_id": "1a16344b812483f4",
       "subject": "Spring JDBC Interview Questions: JdbcTemplate, RowMapper, Transactions, and Real Production…",
       "received_at": "2026-10-22T11:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a16344b812483f4",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "34bd29398306507646b6c669f191f6c2dc4d423f6c31d781be0089abdf4f1960"
     },
     {
-      "gmail_id": "1a1633ffcb2c936c",
       "subject": "The Transactional Outbox Pattern Is Not Enough: How Events Still Get Lost, Duplicated, or Delivered…",
       "received_at": "2026-10-22T10:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1633ffcb2c936c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7074964b2a35bd95634345a3f3d9b1e513b10f477fb76e2766682b7bd7da2ca5"
     },
     {
-      "gmail_id": "1a1633b6b09703e8",
       "subject": "PostgreSQL Autovacuum Is Running. So Why Is Your Database Still Growing?",
       "received_at": "2026-10-22T10:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1633b6b09703e8",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a300c2bcb90a0887ac20e7092162a8954e265242180c6df9f4ab1face5a8ce9b"
     },
     {
-      "gmail_id": "1a15b86745e45a34",
       "subject": "Java Streams vs Loops vs Parallel Streams: Performance, Readability, and Hidden Costs",
       "received_at": "2026-10-20T22:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a15b86745e45a34",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3f536037802fe2c894e680a0ce3c4c10669666320b45156ac4f75cf808a5c887"
     },
     {
-      "gmail_id": "1a15b5d43ca90610",
       "subject": "Java Memory Model Explained: Heap, Stack, Metaspace, Garbage Collection, and Memory Leaks",
       "received_at": "2026-10-20T22:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a15b5d43ca90610",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5006ca6ebc4fa9b460fa94a9131e3dc8b8b1c34259c382dcaa032f40ffb29635"
     },
     {
-      "gmail_id": "1a15b3d3a8f98e76",
       "subject": "Java Synchronization Explained: synchronized vs ReentrantLock vs ReadWriteLock",
       "received_at": "2026-10-20T21:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a15b3d3a8f98e76",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8c387fd08164e79b2e6d8609d14de3d248b7cd81653ca63b7de2b39b139e9153"
     },
     {
-      "gmail_id": "1a154a8ad8ef3841",
       "subject": "Rate Limiting in Spring Boot: Token Bucket, Redis, Distributed Limits, and Race Conditions",
       "received_at": "2026-10-19T14:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a154a8ad8ef3841",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f091a14e30c22c7633a24ef15c68f0e27d93bd976c87f25904f757ea638b0d25"
     },
     {
-      "gmail_id": "1a15395fc5a28e9a",
       "subject": "Kafka Consumer Lag Explained: Rebalancing, Offset Commits, Retries, and Duplicate Processing",
       "received_at": "2026-10-19T09:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a15395fc5a28e9a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "31eeadf0206d3edf312dfbaa9dd2a0b7181ff2e83b6fc0cd9d5bd3310be3a1a8"
     },
     {
-      "gmail_id": "1a152d1270894afc",
       "subject": "Change Data Capture (CDC) Explained: Building Reliable PostgreSQL-to-Kafka Pipelines with Debezium",
       "received_at": "2026-10-19T06:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a152d1270894afc",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ed294b462b1b646bbf0d940c4e95b0e1edd13ebbfa130b7c0ecc053b9ce38f16"
     },
     {
-      "gmail_id": "1a152ac871889698",
       "subject": "Why Your Spring Boot API Becomes Slow Under Load: Connection Pools, Thread Starvation, and N+1…",
       "received_at": "2026-10-19T05:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a152ac871889698",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1bf3ed5555333f8fffa7e1fdb2ff2bcb9e50cc305701f98a3a4944f488f52f9b"
     },
     {
-      "gmail_id": "1a14924a6c371bcf",
       "subject": "Designing Backward-Compatible REST APIs Across Multiple Releases",
       "received_at": "2026-10-17T09:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14924a6c371bcf",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f5276a75057935346ce06883bd61226633a7e84110986cf9978b4a1d9547a81e"
     },
     {
-      "gmail_id": "1a14924a61167832",
       "subject": "Designing Validation Errors That Frontends Can Reliably Render",
       "received_at": "2026-10-17T09:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14924a61167832",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "58bb369b8d65fa03168aa501af29b4a6164e0fcb6ced8d9aa152963b871901cd"
     },
     {
-      "gmail_id": "1a14924a5f7531c5",
       "subject": "Why Catching an Exception Can Accidentally Commit a Transaction",
       "received_at": "2026-10-17T09:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14924a5f7531c5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "dbc581ed1e30898009599e204e4bad284a556bae23d9cc233e91b14c79f21ced"
     },
     {
-      "gmail_id": "1a14924a590b1237",
       "subject": "Designing Transaction Boundaries for Order Creation and Inventory Reservation",
       "received_at": "2026-10-17T09:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14924a590b1237",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cfcd722cbd7e8513766b4fcec4a9dfaef154a614ad831df4552cc50d42836d77"
     },
     {
-      "gmail_id": "1a14920154a7240c",
       "subject": "Entity Lifecycle Callbacks vs Domain Events: Choosing the Right Hook",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14920154a7240c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3b80101d8bc07f245ad141b64deb9a857facb84f1727ad5433fcee5d2b578ee9"
     },
     {
-      "gmail_id": "1a1492013728567c",
       "subject": "Binary Files Explained: What Happens When You Take an Executable Apart?",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1492013728567c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a8e382e4e48ed4d32c7a02ac4c7b78864771ac56ad9389b33cfe00375dae6889"
     },
     {
-      "gmail_id": "1a1492011ed15f2c",
       "subject": "SQL Query Optimization in Production: Execution Plans, Joins, Index Scans, and Slow Queries",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1492011ed15f2c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c4df14ecf50e1ef66328e45817f0ab4e9c052a984ec55d5eb4e83c26b6fa13b5"
     },
     {
-      "gmail_id": "1a1492011e35fb74",
       "subject": "Designing Database Schemas for Spring Boot Applications: JPA, Migrations, and Data Integrity",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1492011e35fb74",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "9df9e09d52a83f8a77d3933f8148f852833a80de753589526e13ed155152541c"
     },
     {
-      "gmail_id": "1a1492011bc69b9a",
       "subject": "Database Transactions Explained: ACID, Isolation Levels, Locks, and Deadlocks",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1492011bc69b9a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "47c6da40ca9af8af51d9030b7c5ec511826140fdf90557454c4ace1221498622"
     },
     {
-      "gmail_id": "1a1492011af6226d",
       "subject": "Database Normalization Explained: 1NF, 2NF, 3NF, and BCNF With Real-World Examples",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1492011af6226d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c4901062bbabbdd70ae8bc0e16d0a28fdd4ca6093c7936c438016d4ddecbe41e"
     },
     {
-      "gmail_id": "1a1492010ec0f8d2",
       "subject": "SQL Database Schema Design: One-to-One, One-to-Many, Many-to-Many, and Foreign Keys",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1492010ec0f8d2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a0a3b7e04ea606c6b9d1ea299beba5e176320246855cdf03077306af5a532875"
     },
     {
-      "gmail_id": "1a1492010dd851a1",
       "subject": "The Difference Between flush() and commit() in JPA",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1492010dd851a1",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "e12e50bb2b664d9ed459cb07caddf805b64562f582eb05a42b914963b657099c"
     },
     {
-      "gmail_id": "1a14920107bf8128",
       "subject": "PATCH vs PUT: The Update Semantics That Matter",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14920107bf8128",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "600208c2b8b643d7560d6a010296c826d0d2a6d55b96f8ef7059dc210084e342"
     },
     {
-      "gmail_id": "1a14920107739868",
       "subject": "Database Denormalization in Production: When to Use Summary Tables, Materialized Views, and CQRS",
       "received_at": "2026-10-17T09:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14920107739868",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "082018b286f2cd9e1795fa0f04070d204321e5aee7346f6511d0636886914c1f"
     },
     {
-      "gmail_id": "1a1491b7f231d050",
       "subject": "Designing Production-Ready Databases: Migrations, Backups, Recovery, Replication, and Failure…",
       "received_at": "2026-10-17T09:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1491b7f231d050",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "43b405ff1bd8cd91783a662351850903daf10b0856bd5fe82c2615c59da5b5ef"
     },
     {
-      "gmail_id": "1a148f24fe15ebc0",
       "subject": "Java Heap vs Native Memory: Debugging an OOM With Free Heap",
       "received_at": "2026-10-17T08:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148f24fe15ebc0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2e5e0d9395c7dd47bb9e7f21949c23959505cf90ecf4f6e8f0b21da992605cbf"
     },
     {
-      "gmail_id": "1a148edbaf8ad86f",
       "subject": "Debugging Transaction Bugs Across Proxies, Threads, and Async Work",
       "received_at": "2026-10-17T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148edbaf8ad86f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "94ce6e18e4b4d078f21266f8201e6df7fce755ac6d78c88aa96c7e4fd0cd5580"
     },
     {
-      "gmail_id": "1a148edba1464083",
       "subject": "When Should an API Return 409 Conflict?",
       "received_at": "2026-10-17T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148edba1464083",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f2da48a5653e44a5862e9dd9f12b5920d1fa09e39f61450afb1b336f18eeffe6"
     },
     {
-      "gmail_id": "1a148edb8e7c69b9",
       "subject": "Building a Consistent Validation Layer in Spring Boot Without Leaking Framework Details",
       "received_at": "2026-10-17T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148edb8e7c69b9",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "24ab964546568b64995269485809f1dcd5af69be10969f6f02f49d09ea206be0"
     },
     {
-      "gmail_id": "1a148edb8d507d3f",
       "subject": "Why @Valid Does Not Validate Every Nested Object",
       "received_at": "2026-10-17T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148edb8d507d3f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ea74d277c0204c9b1b6e63546524fbb368776722ca8b9d267951d911cca83472"
     },
     {
-      "gmail_id": "1a148edb7d909038",
       "subject": "Why @Transactional on a Private Method Does Not Work",
       "received_at": "2026-10-17T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148edb7d909038",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cbb299ecda26b8a511c4c0fdd63c1d4a476968d85c2cfca900480ba418506e00"
     },
     {
-      "gmail_id": "1a148edb7a52b9be",
       "subject": "API Error Contracts in Spring Boot: Problem Details, Stable Codes, and Client Recovery",
       "received_at": "2026-10-17T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148edb7a52b9be",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7dc797c3f6873a8f916245cd4068e8ab1e88dfc3358278e02ab14d0f5a9c1a2d"
     },
     {
-      "gmail_id": "1a148edb6e0b1cd5",
       "subject": "A Production API Versioning Strategy That Avoids Permanent v1 Endpoints",
       "received_at": "2026-10-17T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148edb6e0b1cd5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a0b085328aab79561882e4cb21bf4ef57fda159421a3518f84e4e9c4aa030081"
     },
     {
-      "gmail_id": "1a148e9257013e9c",
       "subject": "Why HTTP 204 Can Break a Client That Expects JSON",
       "received_at": "2026-10-17T08:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148e9257013e9c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cba87237f8a1258b4c144cdd913657de92e43376d8d6c29a7f1f60a7821e5784"
     },
     {
-      "gmail_id": "1a148e9243cbc662",
       "subject": "Why save() Does Not Always Mean an Immediate SQL INSERT",
       "received_at": "2026-10-17T08:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148e9243cbc662",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2b2ce60bd47987439d574c548c4f001bb2b497c85c7beac4c00771c08d1e89e1"
     },
     {
-      "gmail_id": "1a148e4911f34ee2",
       "subject": "Why LazyInitializationException Appears Outside a Transaction",
       "received_at": "2026-10-17T08:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148e4911f34ee2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4f127ed6854bba512abb837cdc60e356bc78935f9298091204aa44e3fbe7648b"
     },
     {
-      "gmail_id": "1a148e48fb21e54b",
       "subject": "Database Design Fundamentals: How to Turn Business Requirements into SQL Tables",
       "received_at": "2026-10-17T08:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a148e48fb21e54b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c41731a9104f11f1177fab82b24621bd5ff72a6cf5c454b249987a93301cd204"
     },
     {
-      "gmail_id": "1a1432290524a397",
       "subject": "readOnly = true: Hint, Guarantee, or Optimization?",
       "received_at": "2026-10-16T05:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1432290524a397",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "22fc6a42c942f94bd8806b6cb6388ed995ad9a44b79a973019b9db56e7187f84"
     },
     {
-      "gmail_id": "1a1431dfd4352905",
       "subject": "Flush vs Commit in Hibernate: When SQL Executes and Why Your Transaction Can Still Fail",
       "received_at": "2026-10-16T05:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1431dfd4352905",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f7ff1a0661edd65d4b7a403abd92b5bafbf7b0103ec40d0ffa1a73c08342d735"
     },
     {
-      "gmail_id": "1a142eba0a552ea0",
       "subject": "Database Storage in System Design: From SQL Tables to Distributed Storage at Scale",
       "received_at": "2026-10-16T04:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142eba0a552ea0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a455ad0b350f206bfcf927248d3d3d91c9e58fab84bf106f071a8fb0bb9df98b"
     },
     {
-      "gmail_id": "1a142eba01439086",
       "subject": "Bean Validation Groups: When They Help and When They Confuse",
       "received_at": "2026-10-16T04:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142eba01439086",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3b030759a244aaac29b2af9ea72541e9f72a5ce44ca35c41fd4b56f2859660bd"
     },
     {
-      "gmail_id": "1a142e70f991722c",
       "subject": "Database Scaling Explained: Connection Pooling, Read Replicas, Partitioning, and Sharding",
       "received_at": "2026-10-16T04:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142e70f991722c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ca2c27e345e73f340010a526ff01337cde6f1d264ed1f977be2f1ab6c3ccefdf"
     },
     {
-      "gmail_id": "1a142b4b7ef5b01e",
       "subject": "Hibernate First-Level vs Second-Level Cache: Persistence Context, L2 Cache, and Query Cache…",
       "received_at": "2026-10-16T03:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142b4b7ef5b01e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "df8eebb86ee3ee4a01702f54b27d24a2d4322ce18473af532f541688a188f649"
     },
     {
-      "gmail_id": "1a142b4b559e1576",
       "subject": "A Practical Fetch Plan Strategy for Avoiding N+1 Queries",
       "received_at": "2026-10-16T03:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142b4b559e1576",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5d686b0decb3dd057361ced297eefb805ef776cd7050c0159d89e4d80aa2f479"
     },
     {
-      "gmail_id": "1a142b4b3705f2af",
       "subject": "Lazy vs Eager Loading in Hibernate: Proxy Objects, Fetch Strategies, and Hidden Database Queries",
       "received_at": "2026-10-16T03:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142b4b3705f2af",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "fad3097869d77f4178d041502f268433a2d1d7d0ea51b9ba4e83a1c5ca2cb578"
     },
     {
-      "gmail_id": "1a142b021e63856c",
       "subject": "The N+1 Query Problem in Hibernate: Why Your Spring Boot API Executes Hundreds of SQL Queries",
       "received_at": "2026-10-16T03:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142b021e63856c",
       "status": "published",
-      "published_post_id": "6b077a6bd331e9c11e9610ce"
+      "published_post_id": "6b077a6bd331e9c11e9610ce",
+      "gmail_id_sha256": "43e2761f9340146519f624fe4f6fb51fcdf4b3b5ad60beee31e487471bcade2e"
     },
     {
-      "gmail_id": "1a142b01e57981c2",
       "subject": "Spring Boot @Transactional Internals: Transaction Boundaries, Rollback Rules, and Hibernate Session…",
       "received_at": "2026-10-16T03:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142b01e57981c2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "79a4ed00dd2541a20bbcb418e729a6a84819cb8175a44f0354675ce41c0abae1"
     },
     {
-      "gmail_id": "1a142b01e2104f97",
       "subject": "How Hibernate Generates SQL: Entity Mapping, SQL Generation, JDBC Batching, and Statement Execution",
       "received_at": "2026-10-16T03:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142b01e2104f97",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f9f83553f0772c2678df8123fd93443fe5bcf8cfb803072b4e5081488eddbfec"
     },
     {
-      "gmail_id": "1a1427dc7c12861f",
       "subject": "When Nodes Stop Talking: A Staff Engineer’s Guide to Distributed Systems & Data Consistency",
       "received_at": "2026-10-16T02:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1427dc7c12861f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4e569e6c5c7713e77ca9b600cd2aaa6049bddbaa86ff6ec39d88a531c10b633e"
     },
     {
-      "gmail_id": "1a1427dc453a9cc4",
       "subject": "Beneath the Query: A Guide to Database Internals & Storage Mechanics",
       "received_at": "2026-10-16T02:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1427dc453a9cc4",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3ea4f369a3eaeee31f3b9b146732bb2f37bb24593932341c23f01e729047a65b"
     },
     {
-      "gmail_id": "1a142793269d9201",
       "subject": "Hibernate Batch Inserts and Updates: JDBC Batching, saveAll(), Flush/Clear, and High-Volume Data…",
       "received_at": "2026-10-16T02:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142793269d9201",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f82809d02ddb0ac48d66823f7782908f82d4401e94ca67b508a724c46978a95c"
     },
     {
-      "gmail_id": "1a1427930bdd7bdf",
       "subject": "Hibernate and JPA Internals: How the Persistence Context, Entity Lifecycle, and First-Level Cache…",
       "received_at": "2026-10-16T02:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1427930bdd7bdf",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3a59d683252d57a2df9b1068d0f59d07a40f6df3cd9cd20ea87e2073a5ca1290"
     },
     {
-      "gmail_id": "1a142792edd5b867",
       "subject": "Optimistic vs Pessimistic Locking in JPA: Preventing Lost Updates in Concurrent Applications",
       "received_at": "2026-10-16T02:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a142792edd5b867",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4271e6796eaa355aada2748711af979b75ab91ff0353dde7f0fc0a5c0c4d6f3c"
     },
     {
-      "gmail_id": "1a14242430b9e718",
       "subject": "How to Access Private Cloud Machines: VPN, Bastion Hosts, and SSH Tunnels",
       "received_at": "2026-10-16T01:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14242430b9e718",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2775883f143a51f6eab147511aeb2f52f254461fd925b54a77815b4b4f8d7d24"
     },
     {
-      "gmail_id": "1a14242403d7f370",
       "subject": "Remote Machines Explained: What They Are and How to Connect to One Using SSH",
       "received_at": "2026-10-16T01:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14242403d7f370",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "22abb5fc7680da6cbe5cea96b7c7bfee9005666fbdebb5491886b4ba09312159"
     },
     {
-      "gmail_id": "1a1423db3a6d2620",
       "subject": "Hibernate and JPA Internals: How the Persistence Context, Entity Lifecycle, and First-Level Cache…",
       "received_at": "2026-10-16T01:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1423db3a6d2620",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3fbadaa7e766e6f6aac480065702265af1cd5f93ffb3015002eb1f5e5a0ceade"
     },
     {
-      "gmail_id": "1a1420feaeb925b8",
       "subject": "Hibernate Dirty Checking: What Actually Triggers an UPDATE",
       "received_at": "2026-10-16T00:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1420feaeb925b8",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "cfefaea4f2d0b4dc587893699a63973c366ad21164bdce9c954cd54326f6e68a"
     },
     {
-      "gmail_id": "1a1420fe62b012ae",
       "subject": "Safe Request Binding: Prevent Mass Assignment and Over-Posting Bugs",
       "received_at": "2026-10-16T00:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1420fe62b012ae",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4a1d80b989bc473de6ee67ce30b3070f9953806ab0a7d11c9fa8970a92af09bd"
     },
     {
-      "gmail_id": "1a1420b55f0abbed",
       "subject": "Remote Linux Server Administration: Logs, Permissions, Networking, and Troubleshooting",
       "received_at": "2026-10-16T00:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1420b55f0abbed",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "92c041850a66dd063e5018c17db27e44ed11d0681c9a70c82fcd8fc8393c9b77"
     },
     {
-      "gmail_id": "1a14206c11777bc6",
       "subject": "Distributed Job Scheduling in Spring Boot: Prevent Duplicate Execution Across Multiple Instances",
       "received_at": "2026-10-16T00:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14206c11777bc6",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "bb67e478c72e8d6663c1dcb300940ce4aa8683885aa5d4cbb501d02e1cef5d3a"
     },
     {
-      "gmail_id": "1a14206bf0a14a42",
       "subject": "Deploy a Spring Boot Application on a Remote Linux Server: From JAR to Running Service",
       "received_at": "2026-10-16T00:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14206bf0a14a42",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "e968f993906ac4cbb07f1544a47f8a35714539283d337768f5aa14e53ade4a9d"
     },
     {
-      "gmail_id": "1a14206bf0790984",
       "subject": "How to Access Private Cloud Machines: VPN, Bastion Hosts, and SSH Tunnels",
       "received_at": "2026-10-16T00:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14206bf0790984",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7a0aa0783eb590f4ca21487a6c7dfeec65cd4b91f45f60cc62538543834b62ab"
     },
     {
-      "gmail_id": "1a141cfd20dd76a6",
       "subject": "Background Jobs in Spring Boot: From @Async to a Reliable Job Processing System",
       "received_at": "2026-10-15T23:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a141cfd20dd76a6",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "017b3612b46a0b222f80c11339475ca4f774782402fb6b98c63d99b31a8d968d"
     },
     {
-      "gmail_id": "1a1419d7aec7cb9e",
       "subject": "Processing Millions of Records Safely: A Production Batch Processing Design in Java",
       "received_at": "2026-10-15T22:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1419d7aec7cb9e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "abcca93195e70193162d21577b38dd3721639be75a0ca0f6f855dbc88e88ed1b"
     },
     {
-      "gmail_id": "1a1419d76f52fcb0",
       "subject": "Background Jobs in Spring Boot: From @Async to a Reliable Job Processing System",
       "received_at": "2026-10-15T22:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1419d76f52fcb0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7c2427b6022ecb87e24732a82f70a39698f4aba63ec7edde5bf82562aa2d1654"
     },
     {
-      "gmail_id": "1a14198e477486c6",
       "subject": "Durable Workflows in Java: How to Resume a Business Process After a Crash",
       "received_at": "2026-10-15T22:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14198e477486c6",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "07ee5a24d9c7c59accfda09cd3a58199e0ac42286bffa25cfd5150e7cb81dd1f"
     },
     {
-      "gmail_id": "1a14198e3e62f3be",
       "subject": "Why SELECT * Is a Costly Habit in Backend APIs",
       "received_at": "2026-10-15T22:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a14198e3e62f3be",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2c072874104cba85026303ca4c2c6e2fbd0ea3b9f5ec785abb5da2f871694103"
     },
     {
-      "gmail_id": "1a140bd282fb161e",
       "subject": "A Write-Heavy Database Is Slow: Index Bloat, Locks, and Maintenance",
       "received_at": "2026-10-15T18:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a140bd282fb161e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4ad0d9f0f2cef04ded80fec15465542c4859e400e267ac8b4148fc7042a64f9d"
     },
     {
-      "gmail_id": "1a13ca05113964e2",
       "subject": "Never Use Floating Point for Money: A Practical Backend Design in Java and Spring Boot",
       "received_at": "2026-10-14T22:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a13ca05113964e2",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "fd2eefdf6b90a178390d0f25a62a92f681643333a2d0bba6f8da97891f25df9b"
     },
     {
-      "gmail_id": "1a13c2ddbde0bf09",
       "subject": "Dead-Letter Queues in Kafka: How to Recover Poison Messages Without Losing Events",
       "received_at": "2026-10-14T20:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a13c2ddbde0bf09",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "52869216ec2f514f0ee220e0cc56f256600d978a20217791316899259eebe2be"
     },
     {
-      "gmail_id": "1a13b96ca74571fa",
       "subject": "Find a Java Memory Leak with Heap Dumps and Eclipse MAT",
       "received_at": "2026-10-14T18:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a13b96ca74571fa",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "bc2fd41d58f8e7d95b85c4c7dcd272648a23414e8211e387cb2385e6a59850f0"
     },
     {
-      "gmail_id": "1a13b5222ce4a909",
       "subject": "Design Search Autocomplete That Feels Instant at Scale",
       "received_at": "2026-10-14T16:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a13b5222ce4a909",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "e9d3b64e24578214a966d5b42b90d583fc31ef08fa9613aa339e7baaaeb44cb8"
     },
     {
-      "gmail_id": "1a13b04505a80f19",
       "subject": "Audit Logging in Distributed Systems: What to Record and What to Avoid",
       "received_at": "2026-10-14T15:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a13b04505a80f19",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "fe41f97f9c2eb098a80568f248dc83e43f88bc9602c12f7d2ace59b9e3507767"
     },
     {
-      "gmail_id": "1a1388373dde3d71",
       "subject": "How to Import a Million-Row CSV Without Crashing Your Backend",
       "received_at": "2026-10-14T03:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1388373dde3d71",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1241d60178fd50d1febf21b7cf49311fa88d924b1ee31129c4059323a207d8d1"
     },
     {
-      "gmail_id": "1a137f0f7f9845e3",
       "subject": "Consumer-Driven Contract Testing with Pact",
       "received_at": "2026-10-14T01:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a137f0f7f9845e3",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "de40b76cf4a20d6d3de0e8ad0cdd27dd3efdbfc51a884e7785b796560889cabf"
     },
     {
-      "gmail_id": "1a13739dfbbce649",
       "subject": "Multi-Tenant Architecture: Shared Tables vs Separate Schemas vs Separate Databases",
       "received_at": "2026-10-13T21:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a13739dfbbce649",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4e0b5c343bf2b31b62bfb040b6eda1afdcad66a9a803cc3051d370c0bcef421e"
     },
     {
-      "gmail_id": "1a1368764d6e6aac",
       "subject": "Designing Reliable Event-Driven Systems: The Architecture Behind Payments, Retries, and Distributed…",
       "received_at": "2026-10-13T18:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1368764d6e6aac",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "561e25aecc30dc155d8448ddf99dde2bc64b2eb4d7376e50c63aee4afa1ea633"
     },
     {
-      "gmail_id": "1a13650d550d46d9",
       "subject": "Building a Search Engine at Scale: A Staff Engineer’s Guide to Indexing, Ranking, and Distributed…",
       "received_at": "2026-10-13T17:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a13650d550d46d9",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f997e9e133fbeedff30f9aeaf9ed6c631fcc7326a43a46f37b100e38fdd8ee93"
     },
     {
-      "gmail_id": "1a1364bd298f38af",
       "subject": "Designing APIs That Survive Scale: The Architecture Behind Reliability, Performance, and Real-World…",
       "received_at": "2026-10-13T17:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1364bd298f38af",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2b758f848e1dad0a5a53d02ca9bcdbf56a8a152aa6cee65d07f61e2e6b39ecc9"
     },
     {
-      "gmail_id": "1a1364bd1e98dc4d",
       "subject": "Building a Real-Time Notification System at Scale: A Staff Engineer’s Guide to Event-Driven…",
       "received_at": "2026-10-13T17:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1364bd1e98dc4d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "27ecd5802e2478fbd9b0c66196f4f039f6ccf5aa71aed74a1ce5089bf39e7979"
     },
     {
-      "gmail_id": "1a1364bd052d1b21",
       "subject": "Zero-Downtime Database Migrations: Change a Production Schema Without Breaking Your App",
       "received_at": "2026-10-13T17:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1364bd052d1b21",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "da09b401ee716b8704828172d32417bc3716df5aff2d52db1fa24fc4f9d335e0"
     },
     {
-      "gmail_id": "1a13614e6c7732cc",
       "subject": "The System Design Problem Nobody Talks About: What Happens When Your System Gets Busy?",
       "received_at": "2026-10-13T16:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a13614e6c7732cc",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "608c1eef12d4bef9312aa23af3f751419d7b4cc9937f05d56a1814983542cde4"
     },
     {
-      "gmail_id": "1a135e71cc3dfd18",
       "subject": "Designing a Payment Platform at Scale: The Staff Engineer’s Guide to Financial Correctness…",
       "received_at": "2026-10-13T15:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a135e71cc3dfd18",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "aa238b48e811a1b6b1a3b2483ec6c530cc71d290fa2cca10cdb123369edbd6bc"
     },
     {
-      "gmail_id": "1a132a5fa82e14a0",
       "subject": "Idempotency in Distributed Systems: How to Build APIs That Remain Correct When Everything Retries",
       "received_at": "2026-10-13T00:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a132a5fa82e14a0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d0b1a2d879dcab7259e4556e341b790fee973c4ed1c630a8a0741dffa35b27f8"
     },
     {
-      "gmail_id": "1a1314a15e1bf221",
       "subject": "PostgreSQL Partitioning: When It Helps and When It Does Not",
       "received_at": "2026-10-12T18:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1314a15e1bf221",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "2add14ba1c278a9f6782ecbc0ad6241a9c86f2ee0a5d9cd06222e334deff10a5"
     },
     {
-      "gmail_id": "1a1314a1479f7a9b",
       "subject": "OAuth 2.0 Refresh Token Rotation: Prevent Replay and Token Theft",
       "received_at": "2026-10-12T18:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1314a1479f7a9b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ced7e058a501d2c6357d099956ac5d84a3d43fbcc594cbaf81de0ebd30424a0f"
     },
     {
-      "gmail_id": "1a12c1a9183ac705",
       "subject": "Secure File Uploads in Spring Boot: Validation, Storage, Malware Scanning, and Download Controls",
       "received_at": "2026-10-11T17:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a12c1a9183ac705",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "7d2d1fb9e5edda5b91f6b8519db418e90bce4caf21e0fde98df33c50dce003fe"
     },
     {
-      "gmail_id": "1a12c15fe6eeb001",
       "subject": "UUID vs ULID vs Snowflake IDs: How to Choose the Right ID Strategy for Distributed Systems",
       "received_at": "2026-10-11T17:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a12c15fe6eeb001",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "783763aaffd13e50a44b5cb0944dc6ab55e35504917fdb14a64384bac394c703"
     },
     {
-      "gmail_id": "1a12c1169d74438f",
       "subject": "Preventing SSRF in Spring Boot: The Security Mistake Behind Dangerous URL Fetching",
       "received_at": "2026-10-11T17:45:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a12c1169d74438f",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8f31488c31bf4ce6c800362eecd76e6378123bc42b3cc579d0d3d472356d9696"
     },
     {
-      "gmail_id": "1a12661bcbd18108",
       "subject": "Database Replication Explained: Quorum, Replication Lag & Failover in Distributed Systems",
       "received_at": "2026-10-10T15:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a12661bcbd18108",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d0df6ff6e8b43ffcff3116e69f42f74f949ce93c4103e9be15148df5ee0d5073"
     },
     {
-      "gmail_id": "1a12661badbd5821",
       "subject": "Strong vs Eventual Consistency: Choosing the Right Consistency Model for Your Backend",
       "received_at": "2026-10-10T15:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a12661badbd5821",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "80237ba00c415cfe7c07167da1ed18f52a899b25d70fc063469efcf5310649d4"
     },
     {
-      "gmail_id": "1a12661ba4210723",
       "subject": "CAP Theorem Explained: What Actually Happens When a Distributed System Breaks",
       "received_at": "2026-10-10T15:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a12661ba4210723",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "838d8e6620b2fb97b7f677d8f533351ccab2b5cda707dca0962b9c3a1751fa97"
     },
     {
-      "gmail_id": "1a12661b9edc041c",
       "subject": "CDN and DNS — What Actually Happens When You Open a Website?",
       "received_at": "2026-10-10T15:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a12661b9edc041c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "981f037a116b9e4de1b7ce682519ce7f711dbe9cf8051033386568542c56697d"
     },
     {
-      "gmail_id": "1a12661b9d965616",
       "subject": "Your Spring Boot Webhook Handler Works Until the Provider Retries the Same Event",
       "received_at": "2026-10-10T15:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a12661b9d965616",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "dd81f3e82fe630b5b906fd2e6a5b036944eece765d7a0119482039dd1f827522"
     },
     {
-      "gmail_id": "1a11b795dd56b0aa",
       "subject": "Hibernate & JPA Interview Questions for Java Developers: From Basics to Production-Level Problems",
       "received_at": "2026-10-08T12:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a11b795dd56b0aa",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a41938b9778bdc957604957ff8e249acc194e66a6af6e3fef40b7b5bbece67f6"
     },
     {
-      "gmail_id": "1a117a2104dcc351",
       "subject": "Kafka Interview Questions for Java & Spring Boot Developers: 100+ Production Scenarios from Basics…",
       "received_at": "2026-10-07T18:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a117a2104dcc351",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "db1e226751d7ee3003ad58ccd19e1b6f2bb68c226edd9066bd25201914b0f52d"
     },
     {
-      "gmail_id": "1a117a20cbdb025b",
       "subject": "Java Virtual Machine (JVM): The Complete Production & Interview Masterclass",
       "received_at": "2026-10-07T18:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a117a20cbdb025b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "8f57b2516851132819c32d2157faece412240922f7384160b0e200c9aa2de4fd"
     },
     {
-      "gmail_id": "1a1178edea971172",
       "subject": "Testcontainers with Spring Boot: The Integration Testing Guide That Finally Uses Real Databases",
       "received_at": "2026-10-07T18:10:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1178edea971172",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "4a4b23c3874c9d7d2fe4cbc7d13be90d992ed537e25ee0278786d49f0e57f799"
     },
     {
-      "gmail_id": "1a11737e073a0b25",
       "subject": "Distributed Locking in Spring Boot: Redis vs Database Locks",
       "received_at": "2026-10-07T16:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a11737e073a0b25",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a62c626bec4c24cde32e287e6b56854c86e616beeb088e4c83ec6ed174f43b1d"
     },
     {
-      "gmail_id": "1a111b16318431af",
       "subject": "REST API Pagination: Offset vs Cursor Pagination in Spring Boot",
       "received_at": "2026-10-06T14:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a111b16318431af",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3cdd3373b111c2e84c9611f4270f2aab3b190c376beb98f3b0edbc7204aa550e"
     },
     {
-      "gmail_id": "1a1119159ca3acfe",
       "subject": "Resilience4j with Spring Boot: Retry, Timeout, Circuit Breaker and Bulkhead Explained",
       "received_at": "2026-10-06T14:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1119159ca3acfe",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "92e7b86ea2c339bdfd1b7e11ccfd911e989fea5c4a095afe4b3c2744a427243f"
     },
     {
-      "gmail_id": "1a10c6f9592116b5",
       "subject": "Java Memory Model Interview Questions: Happens-Before, Visibility and Race Conditions",
       "received_at": "2026-10-05T14:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a10c6f9592116b5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f208b5781ca31143a2c45c0ea500605da552a6903a01978122801862d886d229"
     },
     {
-      "gmail_id": "1a10c6f949462e4d",
       "subject": "Virtual Threads in Java 25: 15 Production Problems Every Java Backend Engineer Should Know",
       "received_at": "2026-10-05T14:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a10c6f949462e4d",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a200cb4e095db6ff41718f1894fe4504e4f07db16fdb69ddacaf5e963b91b871"
     },
     {
-      "gmail_id": "1a1080e0e498cd18",
       "subject": "JVM Interview Questions 2026: 50 Questions From Class Loading to JIT, GC and Memory",
       "received_at": "2026-10-04T17:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1080e0e498cd18",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "86020870894c910193765c1fb5329600bf74b7330fa63cbbc75a6ea1a3b336ee"
     },
     {
-      "gmail_id": "1a1073252d65ff42",
       "subject": "Backend Engineering Masterclass: The Single Source of Truth for Becoming a Production-Grade Backend…",
       "received_at": "2026-10-04T13:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1073252d65ff42",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "842293c53695f03fbad2a6a8f82d8885700ff020da1a8af72de4beb8f70c3bd8"
     },
     {
-      "gmail_id": "1a105ff9eb222be1",
       "subject": "Spring @Transactional Interview Questions: Propagation, Isolation, Rollback & Real-World Problems",
       "received_at": "2026-10-04T08:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a105ff9eb222be1",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "626c4be4603b79e1f2b39198ee8f552f00ff2773d53f10579b2e6944b2d8c331"
     },
     {
-      "gmail_id": "1a105fb0a94808b3",
       "subject": "Java Backend Interview Questions 2026: 50+ Questions Every Java Developer Should Know",
       "received_at": "2026-10-04T08:15:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a105fb0a94808b3",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "048d00b309ad0c7d82a3c738ea6e55f4eb69df3b56a9c556174e3b836970b552"
     },
     {
-      "gmail_id": "1a1029a85078b210",
       "subject": "Your Spring Boot App Is Slow but CPU Looks Normal: JVM Memory, GC, Threads, and the Real Bottleneck",
       "received_at": "2026-10-03T16:30:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1029a85078b210",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6af10f047b7a8f7a2622e2ee9d5ac883e265cb90159a94d25a1c8fa69fd29d56"
     },
     {
-      "gmail_id": "1a1020bf49a1a225",
       "subject": "Kubernetes Keeps Restarting Your Healthy Spring Boot Pod: Probes, OOMKills, and CrashLoops…",
       "received_at": "2026-10-03T13:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1020bf49a1a225",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "318cb99878ec704665e7813d945d015435c54304142dec8a4de4022ba7e638bb"
     },
     {
-      "gmail_id": "1a1005929766cc6e",
       "subject": "Your Spring Boot API Is Slow, but CPU and Memory Look Fine: How to Find the Real Bottleneck",
       "received_at": "2026-10-03T06:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a1005929766cc6e",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c27af75a09cc6e65390a6e8bd81824b083f05f79d9270f47499e69dd4c66dd8a"
     },
     {
-      "gmail_id": "1a0fdc156b960e3a",
       "subject": "Why Your PostgreSQL/MySQL Query Gets Slow at Scale: Indexes, Query Plans, and Spring Boot",
       "received_at": "2026-10-02T17:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0fdc156b960e3a",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "ba82542a2e76d73591b86beed8e001031cb2f0a320921b8999f0cec9c8c52312"
     },
     {
-      "gmail_id": "1a0fd53780019f5c",
       "subject": "Optimistic vs Pessimistic Locking in Spring Boot: What Actually Happens During Concurrent Updates",
       "received_at": "2026-10-02T15:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0fd53780019f5c",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "c3351b0c2312c392b6662bb493f5be41b68fe9da78749a5d9d2d7120ff035fba"
     },
     {
-      "gmail_id": "1a0fcea3f85d3d16",
       "subject": "JDBC Connection Pool Exhaustion in Spring Boot: How HikariCP Actually Works Under Load",
       "received_at": "2026-10-02T14:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0fcea3f85d3d16",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "d5514ae474f2879c21c3306aeb3ce4e77c5f8df2d1ce74b757a1f90d9b69b96e"
     },
     {
-      "gmail_id": "1a0f87b38db3c43b",
       "subject": "Your Spring Boot Application Has 200 Threads but Only 10 Database Connections. What Happens Next?",
       "received_at": "2026-10-01T17:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0f87b38db3c43b",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "9ffbe06da7a4cb31dd555f8a36461ce912f95ff669c0732a7ec80c439cb9786e"
     },
     {
-      "gmail_id": "1a0f85f78b349765",
       "subject": "Transactional Outbox Pattern: How to Reliably Publish Kafka Events Without Losing Data",
       "received_at": "2026-10-01T16:50:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0f85f78b349765",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "40ab28c9e124c90508c041938ad43b8261d71d7021d3b43117ae1693ffea7bdf"
     },
     {
-      "gmail_id": "1a0f8564e0019a12",
       "subject": "Kafka Looks Simple Until Your Consumer Crashes: 10 Failure Scenarios Every Java Backend Developer…",
       "received_at": "2026-10-01T16:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0f8564e0019a12",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "02199441134536b3c3dc6136eeeada3e96a2483c6df8ee85149df63f8113b247"
     },
     {
-      "gmail_id": "1a0f30bcda8106f4",
       "subject": "Redis Caching in Spring Boot: 10 Production Problems Nobody Tells You About",
       "received_at": "2026-09-30T16:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0f30bcda8106f4",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "edfebc619c1ee5f947bed1eb4e672b4f16f50e5049a49394abdbfa8f21101038"
     },
     {
-      "gmail_id": "1a0f306c37b516ec",
       "subject": "Your Spring Boot API Is Slow: A Production Debugging Guide From Request to Database",
       "received_at": "2026-09-30T15:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0f306c37b516ec",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "55d3695e6825dcf509162209f21334c60acd5bdd99454743307da22c01c1a37b"
     },
     {
-      "gmail_id": "1a0f2f90ec277458",
       "subject": "Microservices Interview Questions: 30 Real-World Scenarios Every Java Developer Should Know",
       "received_at": "2026-09-30T15:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0f2f90ec277458",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3929df30419cfd03b1751db91f131c280ad709b4dc08a0ae2aa0b10c6c081587"
     },
     {
-      "gmail_id": "1a0f2eb4ca935ff6",
       "subject": "Java Concurrency Interview Questions: 30 Problems That Expose Weak Understanding",
       "received_at": "2026-09-30T15:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0f2eb4ca935ff6",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5da9eee19bed83857ae64ae94d0a188df9585fede7b2ffa809f91a648b07929b"
     },
     {
-      "gmail_id": "1a0ed77fa5674bfc",
       "subject": "Hibernate & JPA Interview Questions: 30 Questions Java Developers Get Wrong",
       "received_at": "2026-09-29T14:00:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0ed77fa5674bfc",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "59c2b1dbfc1a1be81f0b22525750d35666889f7b5dffa3f1f0e051e57326e8de"
     },
     {
-      "gmail_id": "1a0ed728bd79f557",
       "subject": "Spring Boot Interview Questions 2026: 35 Questions Interviewers Ask After the Basics",
       "received_at": "2026-09-29T13:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0ed728bd79f557",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "a913b38b6cd9befc9557e75de7d0f4b3660a2549702f387813db5e3a1b26a714"
     },
     {
-      "gmail_id": "1a0ed7289243bfc4",
       "subject": "Java Backend Interview Questions 2026: 30 Questions Interviewers Ask After the Basics",
       "received_at": "2026-09-29T13:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0ed7289243bfc4",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "94ca1198e4eb713f15c0f31f4f79decddeb5160ee7ea652dec92c698c6d283f6"
     },
     {
-      "gmail_id": "1a0ed7286feca107",
       "subject": "Spring AI 2.0 + MCP: Building a Production-Grade AI Agent Backend in Java",
       "received_at": "2026-09-29T13:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0ed7286feca107",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "889c46ea0c7745ba25c8406613e75d3d6aa9966fb0f77d5a8d267724977d091d"
     },
     {
-      "gmail_id": "1a0e86316c6517d0",
       "subject": "Spring Security Interview Questions: 30 Questions About JWT, Filters and OAuth2",
       "received_at": "2026-09-28T14:20:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0e86316c6517d0",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "43c04a305796be182fb05fa604a3837bafe40ae2d5fb26035336ef89faee059e"
     },
     {
-      "gmail_id": "1a0e6cba58f8aba1",
       "subject": "10 Ways to Optimize Backend APIs Without Caching",
       "received_at": "2026-09-28T06:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0e6cba58f8aba1",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5acc6110b9e2cc4d12b7c5bd5a4daf3d5900e5210034e915931adb7152f7f0a8"
     },
     {
-      "gmail_id": "1a0e666ef7195bcf",
       "subject": "Spring Boot 4: 15 Features That Actually Change How You Build REST APIs in 2026",
       "received_at": "2026-09-28T05:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0e666ef7195bcf",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "3718b439774e8c35501d726dcc5613ee9e530e9cf6f6bb803e079046a41c08ec"
     },
     {
-      "gmail_id": "1a0e1ae73ba40233",
       "subject": "Saga Design Pattern in Java & Spring Boot: Managing Distributed Transactions",
       "received_at": "2026-09-27T07:05:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0e1ae73ba40233",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "6d98c0a953250ee96f95fce8c87325d32317820bf82d40e014362eef21b671e7"
     },
     {
-      "gmail_id": "1a0e192f9f3eb1c5",
       "subject": "Event Sourcing in Java and Spring Boot: Building Systems Around an Immutable History of Events",
       "received_at": "2026-09-27T06:35:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0e192f9f3eb1c5",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "951c1e8b71670bd9806f8c1c9297b864c9a1665ee51d1fe49a5e4b9db60ea589"
     },
     {
-      "gmail_id": "1a0e189d26b63857",
       "subject": "CQRS Design Pattern in Java and Spring Boot: Separating Reads from Writes",
       "received_at": "2026-09-27T06:25:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0e189d26b63857",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f26abb60ed204b3121ea63e9928b8a093218abdfbac3942ab5e0fdec92993d08"
     },
     {
-      "gmail_id": "1a0cf681de8327a7",
       "subject": "Spring Security: What Actually Happens When a Request Hits Your Spring Boot API?",
       "received_at": "2026-09-23T17:55:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0cf681de8327a7",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "429851296befd10ef96a701558acf9edef89822e18c534ae50d02a7473dedf27"
     },
     {
-      "gmail_id": "1a0ceec847d610d4",
       "subject": "10 Concepts Every Backend Developer Should Know",
       "received_at": "2026-09-23T15:40:00+00:00",
-      "source_url": "https://mail.google.com/mail/u/?authuser=jetherrodrigues%40gmail.com#all/1a0ceec847d610d4",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "f9d8f6ced81bd8a8f0ea8a31cb27b1201f198b417e686467e2fcd57ebd1e88a5"
     },
     {
-      "gmail_id": "1a21770d832493e0",
       "subject": "What Actually Happens Between Two Microservices? The Complete Journey of an API Request",
       "received_at": "2026-11-26T10:40:00",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5042399e42365cf50030bb048a734fbe04a44d9816d7c0660a4e5a06c88ce270"
     },
     {
-      "gmail_id": "1a2172307ac453c1",
       "subject": "How to Process a 10GB CSV File in Java With Only 512MB of RAM",
       "received_at": "2026-11-26T09:15:00",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "0d44dde18e67cdb9e7b12d74eddcde15193bfb038b347579eea0d3a0cabe615b"
     },
     {
-      "gmail_id": "1a2170c26610ffbd",
       "subject": "The Database Had the Correct Value. Redis Put the Old Value Back.",
       "received_at": "2026-11-26T08:50:00",
       "status": "scheduled",
@@ -2506,37 +2152,38 @@
       "pdf_url": "https://raw.githubusercontent.com/jether2011/technical-documents-for-carrousel/main/posts/redis-stale-cache-resurrection/carousel.pdf",
       "zernio_post_id": "6b08c17edc86383ffc3eb984",
       "scheduled_for": "2026-11-27T11:45:00.000Z",
-      "publication_status": "scheduled"
+      "publication_status": "scheduled",
+      "gmail_id_sha256": "f9741ff271f3c619fb588cb77abb92563398bd214578d0c5e4c582a7b1782dc3"
     },
     {
-      "gmail_id": "1a1beadefa263a9b",
       "subject": "Top 20 JUnit Interview Questions and Answers for Java Developers",
       "received_at": "2026-11-09T05:00:00",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "968efef64c402950cbb8108d5a37c776eeb0349040a269d214078a7ed2353930"
     },
     {
-      "gmail_id": "1a1a797ba192ff8d",
       "subject": "BFF Pattern: When Separate Frontends Need Different API Shapes",
       "received_at": "2026-11-04T17:25:00",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "90a8a38a2ce8a80b186e239b23746e98c11ca784d13a0de76186750d87bfbfa3"
     },
     {
-      "gmail_id": "1a19c819aed62351",
       "subject": "Java Functional Interfaces Explained: Abstract vs Default vs Static Methods, Lambdas, and…",
       "received_at": "2026-11-02T13:45:00",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "1fb52e037dd5b267855ddc0040f4ca8c0cea788f94955eaab85f9bad49e24020"
     },
     {
-      "gmail_id": "1a196a4252aa098c",
       "subject": "Functional vs Non-Functional Requirements: The Decisions That Change a System Design",
       "received_at": "2026-11-01T10:25:00",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "5e7b1f7cb9c71134e4f603e9e2974404ee060579282353c2b0544c79bd87ace8"
     },
     {
-      "gmail_id": "1a196288dc0fb040",
       "subject": "TLS Termination and End-to-End Encryption Across Multiple Hops",
       "received_at": "2026-11-01T08:10:00",
-      "status": "collected"
+      "status": "collected",
+      "gmail_id_sha256": "feaec9b25715112774e6cfd65c4f2d325fdffed8ed64f6e3e113dfa42e16530d"
     }
   ],
   "last_updated": "2026-11-25"
