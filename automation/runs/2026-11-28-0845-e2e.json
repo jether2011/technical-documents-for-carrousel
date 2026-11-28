@@ -1,0 +1,26 @@
+{
+  "slot": "2026-11-28T08:45:00-03:00",
+  "status": "PARTIAL",
+  "last_checkpoint": "PREFLIGHT_VALIDATED",
+  "checks": {
+    "config_read": true,
+    "zernio_posts": 4,
+    "slot_occupied": false,
+    "gmail_label_total": 362,
+    "gmail_paginated_unique": 362,
+    "genuine_unlabelled": 13,
+    "excluded_digest": 2,
+    "catalog_records": 361,
+    "catalog_missing_label_records": 1,
+    "renderer_smoke": {
+      "pages": 2,
+      "visual_review": true,
+      "text_extraction": true,
+      "initial_error": "ERR_BLOCKED_BY_ADMINISTRATOR on file:// navigation",
+      "workaround": "Playwright page.set_content",
+      "warnings": "Poppler Type 3 glyph bounding box warnings; production validation pending"
+    }
+  },
+  "blocker": "Existing catalog is public and contains private Gmail provenance; v2 requires private provenance storage before publishing. Private store not yet verified. No production article, schedule or Gmail mutations.",
+  "business_success": false
+}
