@@ -3,7 +3,7 @@
   "generated_at": "2026-11-25",
   "label": "THE_TURTLE_CODE",
   "record_count": 361,
-  "processing_note": "Updated 2026-11-26 E2E validation; new Redis cache theme scheduled for 2026-11-27 08:45 America/Sao_Paulo, GitHub PDF and Markdown validated. Preserve all prior records.",
+  "processing_note": "Updated after user-requested immediate E2E run on 2026-11-27 Brazil time: CSV streaming article published and confirmed in Zernio, PDF and article.md committed.",
   "records": [
     {
       "subject": "The 90% Backend Engineer: Mastering API Integrations Beyond the Happy Path",
@@ -2140,8 +2140,15 @@
     {
       "subject": "How to Process a 10GB CSV File in Java With Only 512MB of RAM",
       "received_at": "2026-11-26T09:15:00",
-      "status": "collected",
-      "gmail_id_sha256": "0d44dde18e67cdb9e7b12d74eddcde15193bfb038b347579eea0d3a0cabe615b"
+      "status": "published",
+      "gmail_id_sha256": "0d44dde18e67cdb9e7b12d74eddcde15193bfb038b347579eea0d3a0cabe615b",
+      "slug": "streaming-large-csv-java-bounded-memory",
+      "gmail_id": "1a2172307ac453c1",
+      "zernio_post_id": "6b0a4132fd1317364f058fa5",
+      "published_at": "2026-11-28T02:49:31.496Z",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7532274445151858688/",
+      "github_dir": "https://github.com/jether2011/technical-documents-for-carrousel/tree/main/posts/streaming-large-csv-java-bounded-memory",
+      "pdf_url": "https://raw.githubusercontent.com/jether2011/technical-documents-for-carrousel/main/posts/streaming-large-csv-java-bounded-memory/carousel.pdf"
     },
     {
       "subject": "The Database Had the Correct Value. Redis Put the Old Value Back.",
