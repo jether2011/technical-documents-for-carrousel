@@ -3,13 +3,23 @@
   "generated_at": "2026-11-25",
   "label": "THE_TURTLE_CODE",
   "record_count": 361,
-  "processing_note": "Updated after user-requested immediate E2E run on 2026-11-27 Brazil time: CSV streaming article published and confirmed in Zernio, PDF and article.md committed.",
+  "processing_note": "2026-11-28: Manual E2E immediate publication of API integration article. Confirmed Zernio published, GitHub artifacts, Gmail archived and labeled. Remaining backlog preserved.",
   "records": [
     {
       "subject": "The 90% Backend Engineer: Mastering API Integrations Beyond the Happy Path",
       "received_at": "2026-11-25T17:55:00+00:00",
-      "status": "collected",
-      "gmail_id_sha256": "139b626ca95683bc122c3db7ae98a69659af68a47f00adb09e5c0fb0480efde6"
+      "status": "published",
+      "gmail_id_sha256": "139b626ca95683bc122c3db7ae98a69659af68a47f00adb09e5c0fb0480efde6",
+      "gmail_id": "1a213d8c05b30eb2",
+      "slug": "api-integration-unknown-outcomes",
+      "zernio_post_id": "6b0a46117d14a57f9a6a9c98",
+      "published_at": "2026-11-28T03:10:18.817Z",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7532279674396184576/",
+      "github_dir": "https://github.com/jether2011/technical-documents-for-carrousel/tree/main/posts/api-integration-unknown-outcomes",
+      "pdf_url": "https://raw.githubusercontent.com/jether2011/technical-documents-for-carrousel/main/posts/api-integration-unknown-outcomes/carousel.pdf",
+      "source_url": "https://medium.com/p/453f98948352",
+      "gmail_label_verified": true,
+      "gmail_archived_verified": true
     },
     {
       "subject": "H2 Passed the Test. PostgreSQL Rejected the Query.",
